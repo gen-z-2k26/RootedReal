@@ -1,0 +1,2387 @@
+{
+  "pages": [
+    {
+      "slug": "shipping-policy",
+      "title": "Shipping & Delivery",
+      "effectiveDate": "",
+      "tagline": "Standard Shipping: FREE \u2014 $0.00",
+      "intro": [
+        "At Rootedrealm, operated by D & V Enterprises, Inc., we aim to provide clear shipping information and convenient delivery throughout the United States."
+      ],
+      "description": "At Rootedrealm, operated by D & V Enterprises, Inc., we aim to provide clear shipping information and convenient delivery throughout the United States.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "At Rootedrealm, operated by D & V Enterprises, Inc., we aim to provide clear shipping information and convenient delivery throughout the United States."
+            }
+          ]
+        },
+        {
+          "id": "1-shipping-coverage",
+          "title": "1. Shipping Coverage",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We offer standard shipping throughout the United States."
+            },
+            {
+              "type": "paragraph",
+              "text": "Our published free shipping policy applies to eligible US delivery addresses."
+            },
+            {
+              "type": "paragraph",
+              "text": "International shipping is not offered under this policy."
+            },
+            {
+              "type": "paragraph",
+              "text": "Some products may be subject to carrier or transportation restrictions, particularly oversized products, fuel-containing equipment, and other regulated goods."
+            }
+          ]
+        },
+        {
+          "id": "2-shipping-cost",
+          "title": "2. Shipping Cost",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Standard Shipping: FREE \u2014 $0.00"
+            },
+            {
+              "type": "paragraph",
+              "text": "All orders qualify for free standard shipping within the United States."
+            },
+            {
+              "type": "paragraph",
+              "text": "No minimum order value is required."
+            }
+          ]
+        },
+        {
+          "id": "3-order-processing-time",
+          "title": "3. Order Processing Time",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Orders are typically processed within 1\u20132 business days, Monday through Friday, after payment confirmation."
+            }
+          ]
+        },
+        {
+          "id": "processing-may-include",
+          "title": "Processing may include:",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Payment and billing verification"
+            },
+            {
+              "type": "bullet",
+              "text": "Product and order review"
+            },
+            {
+              "type": "bullet",
+              "text": "Shipping address verification"
+            },
+            {
+              "type": "bullet",
+              "text": "Product preparation"
+            },
+            {
+              "type": "bullet",
+              "text": "Quality checks"
+            },
+            {
+              "type": "bullet",
+              "text": "Secure packaging"
+            },
+            {
+              "type": "bullet",
+              "text": "Handover to the shipping carrier"
+            },
+            {
+              "type": "paragraph",
+              "text": "During seasonal sales, holidays, or periods of high order volume, processing may occasionally take longer."
+            },
+            {
+              "type": "paragraph",
+              "text": "We aim to notify customers when a meaningful delay is expected."
+            }
+          ]
+        },
+        {
+          "id": "4-transit-time",
+          "title": "4. Transit Time",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Once an order has shipped, standard transit is estimated at 3\u20137 business days."
+            },
+            {
+              "type": "paragraph",
+              "text": "Delivery time depends on the destination, carrier operations, weather, and other circumstances."
+            },
+            {
+              "type": "paragraph",
+              "text": "Remote or rural destinations may experience longer transit times."
+            }
+          ]
+        },
+        {
+          "id": "5-estimated-total-delivery-time",
+          "title": "5. Estimated Total Delivery Time",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Shipping Stage"
+            }
+          ]
+        },
+        {
+          "id": "timeline",
+          "title": "Timeline",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Order Processing"
+            }
+          ]
+        },
+        {
+          "id": "1-2-business-days",
+          "title": "1\u20132 business days",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Shipping Transit"
+            }
+          ]
+        },
+        {
+          "id": "3-7-business-days",
+          "title": "3\u20137 business days",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Total Estimated Delivery"
+            }
+          ]
+        },
+        {
+          "id": "4-9-business-days",
+          "title": "4\u20139 business days",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Shipping Fee"
+            }
+          ]
+        },
+        {
+          "id": "0-00",
+          "title": "$0.00",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Business Days"
+            }
+          ]
+        },
+        {
+          "id": "monday-friday",
+          "title": "Monday\u2013Friday",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Delivery estimates are not guaranteed arrival dates."
+            }
+          ]
+        },
+        {
+          "id": "6-order-confirmation",
+          "title": "6. Order Confirmation",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "After placing an order, customers should receive confirmation information at the email address provided during checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "Please review your order details and delivery address for accuracy."
+            }
+          ]
+        },
+        {
+          "id": "7-shipping-confirmation-and-tracking",
+          "title": "7. Shipping Confirmation and Tracking",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Once the order has been dispatched, tracking information will be provided when available."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tracking updates depend on the shipping carrier."
+            }
+          ]
+        },
+        {
+          "id": "8-large-and-specialized-products",
+          "title": "8. Large and Specialized Products",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our catalog includes products such as:"
+            },
+            {
+              "type": "bullet",
+              "text": "Fireplaces and wood stoves"
+            },
+            {
+              "type": "bullet",
+              "text": "Saunas"
+            },
+            {
+              "type": "bullet",
+              "text": "Large outdoor equipment"
+            },
+            {
+              "type": "bullet",
+              "text": "Gazebos and canopies"
+            },
+            {
+              "type": "bullet",
+              "text": "Power equipment"
+            },
+            {
+              "type": "bullet",
+              "text": "Electronics and monitors"
+            },
+            {
+              "type": "paragraph",
+              "text": "Some items may require specialized packaging, handling, or transportation."
+            },
+            {
+              "type": "paragraph",
+              "text": "Product-specific delivery restrictions will be communicated where applicable."
+            },
+            {
+              "type": "paragraph",
+              "text": "Installation and assembly are not included unless explicitly stated."
+            }
+          ]
+        },
+        {
+          "id": "9-shipping-address-accuracy",
+          "title": "9. Shipping Address Accuracy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers are responsible for providing accurate and complete delivery details."
+            },
+            {
+              "type": "paragraph",
+              "text": "If you notice an error, contact us as soon as possible."
+            },
+            {
+              "type": "paragraph",
+              "text": "Address changes may not be possible after shipment."
+            }
+          ]
+        },
+        {
+          "id": "10-shipping-delays",
+          "title": "10. Shipping Delays",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Delays may occur due to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Severe weather"
+            },
+            {
+              "type": "bullet",
+              "text": "Carrier disruptions"
+            },
+            {
+              "type": "bullet",
+              "text": "Public holidays"
+            },
+            {
+              "type": "bullet",
+              "text": "High order volumes"
+            },
+            {
+              "type": "bullet",
+              "text": "Transportation restrictions"
+            },
+            {
+              "type": "bullet",
+              "text": "Incorrect or incomplete addresses"
+            },
+            {
+              "type": "bullet",
+              "text": "Other circumstances outside our reasonable control"
+            },
+            {
+              "type": "paragraph",
+              "text": "If we cannot ship within the promised or legally required timeframe, we will provide the notices, cancellation options, and refunds required by applicable law."
+            }
+          ]
+        },
+        {
+          "id": "11-damaged-deliveries",
+          "title": "11. Damaged Deliveries",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If your order arrives damaged, please contact us promptly."
+            },
+            {
+              "type": "paragraph",
+              "text": "Provide your order number, a description of the damage, and photographs if available."
+            },
+            {
+              "type": "paragraph",
+              "text": "We will review the issue and explain the appropriate resolution options."
+            }
+          ]
+        },
+        {
+          "id": "12-lost-or-missing-packages",
+          "title": "12. Lost or Missing Packages",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If your tracking shows delivery but the package cannot be located:"
+            }
+          ]
+        },
+        {
+          "id": "1-check-the-delivery-area",
+          "title": "1. Check the delivery area.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2. Verify the shipping address."
+            }
+          ]
+        },
+        {
+          "id": "3-review-carrier-tracking-information",
+          "title": "3. Review carrier tracking information.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "4. Contact customer service."
+            },
+            {
+              "type": "paragraph",
+              "text": "We will review the available shipping information and assist with the next steps."
+            }
+          ]
+        },
+        {
+          "id": "13-multiple-shipments",
+          "title": "13. Multiple Shipments",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Orders containing multiple products may arrive in separate packages."
+            },
+            {
+              "type": "paragraph",
+              "text": "Shipment information will be provided as available."
+            }
+          ]
+        },
+        {
+          "id": "14-contact-information",
+          "title": "14. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Operated by D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "At Rootedrealm, operated by D & V Enterprises, Inc., we aim to provide clear shipping information and convenient delivery throughout the United States.",
+        "1. Shipping Coverage",
+        "We offer standard shipping throughout the United States.",
+        "Our published free shipping policy applies to eligible US delivery addresses.",
+        "International shipping is not offered under this policy.",
+        "Some products may be subject to carrier or transportation restrictions, particularly oversized products, fuel-containing equipment, and other regulated goods.",
+        "2. Shipping Cost",
+        "Standard Shipping: FREE \u2014 $0.00",
+        "All orders qualify for free standard shipping within the United States.",
+        "No minimum order value is required.",
+        "3. Order Processing Time",
+        "Orders are typically processed within 1\u20132 business days, Monday through Friday, after payment confirmation.",
+        "Processing may include:",
+        "* Payment and billing verification",
+        "* Product and order review",
+        "* Shipping address verification",
+        "* Product preparation",
+        "* Quality checks",
+        "* Secure packaging",
+        "* Handover to the shipping carrier",
+        "During seasonal sales, holidays, or periods of high order volume, processing may occasionally take longer.",
+        "We aim to notify customers when a meaningful delay is expected.",
+        "4. Transit Time",
+        "Once an order has shipped, standard transit is estimated at 3\u20137 business days.",
+        "Delivery time depends on the destination, carrier operations, weather, and other circumstances.",
+        "Remote or rural destinations may experience longer transit times.",
+        "5. Estimated Total Delivery Time",
+        "Shipping Stage",
+        "Timeline",
+        "Order Processing",
+        "1\u20132 business days",
+        "Shipping Transit",
+        "3\u20137 business days",
+        "Total Estimated Delivery",
+        "4\u20139 business days",
+        "Shipping Fee",
+        "$0.00",
+        "Business Days",
+        "Monday\u2013Friday",
+        "Delivery estimates are not guaranteed arrival dates.",
+        "6. Order Confirmation",
+        "After placing an order, customers should receive confirmation information at the email address provided during checkout.",
+        "Please review your order details and delivery address for accuracy.",
+        "7. Shipping Confirmation and Tracking",
+        "Once the order has been dispatched, tracking information will be provided when available.",
+        "Tracking updates depend on the shipping carrier.",
+        "8. Large and Specialized Products",
+        "Our catalog includes products such as:",
+        "* Fireplaces and wood stoves",
+        "* Saunas",
+        "* Large outdoor equipment",
+        "* Gazebos and canopies",
+        "* Power equipment",
+        "* Electronics and monitors",
+        "Some items may require specialized packaging, handling, or transportation.",
+        "Product-specific delivery restrictions will be communicated where applicable.",
+        "Installation and assembly are not included unless explicitly stated.",
+        "9. Shipping Address Accuracy",
+        "Customers are responsible for providing accurate and complete delivery details.",
+        "If you notice an error, contact us as soon as possible.",
+        "Address changes may not be possible after shipment.",
+        "10. Shipping Delays",
+        "Delays may occur due to:",
+        "* Severe weather",
+        "* Carrier disruptions",
+        "* Public holidays",
+        "* High order volumes",
+        "* Transportation restrictions",
+        "* Incorrect or incomplete addresses",
+        "* Other circumstances outside our reasonable control",
+        "If we cannot ship within the promised or legally required timeframe, we will provide the notices, cancellation options, and refunds required by applicable law.",
+        "11. Damaged Deliveries",
+        "If your order arrives damaged, please contact us promptly.",
+        "Provide your order number, a description of the damage, and photographs if available.",
+        "We will review the issue and explain the appropriate resolution options.",
+        "12. Lost or Missing Packages",
+        "If your tracking shows delivery but the package cannot be located:",
+        "1. Check the delivery area.",
+        "2. Verify the shipping address.",
+        "3. Review carrier tracking information.",
+        "4. Contact customer service.",
+        "We will review the available shipping information and assist with the next steps.",
+        "13. Multiple Shipments",
+        "Orders containing multiple products may arrive in separate packages.",
+        "Shipment information will be provided as available.",
+        "14. Contact Information",
+        "Rootedrealm",
+        "Operated by D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "return-and-refund-policy",
+      "title": "Returns & Refunds",
+      "effectiveDate": "",
+      "tagline": "Policy Detail",
+      "intro": [
+        "At Rootedrealm, customer satisfaction is important to us."
+      ],
+      "description": "At Rootedrealm, customer satisfaction is important to us.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "At Rootedrealm, customer satisfaction is important to us."
+            },
+            {
+              "type": "paragraph",
+              "text": "We accept eligible returns for both defective and non-defective products within our published 30-day return window."
+            },
+            {
+              "type": "paragraph",
+              "text": "This policy applies to purchases made from Rootedrealm within the United States."
+            }
+          ]
+        },
+        {
+          "id": "1-return-policy-overview",
+          "title": "1. Return Policy Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Policy Detail"
+            }
+          ]
+        },
+        {
+          "id": "rootedrealm-policy",
+          "title": "Rootedrealm Policy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Applicable Country"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Return Window"
+            }
+          ]
+        },
+        {
+          "id": "30-days",
+          "title": "30 days",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Defective Returns"
+            }
+          ]
+        },
+        {
+          "id": "accepted",
+          "title": "Accepted",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Non-Defective Returns"
+            }
+          ]
+        },
+        {
+          "id": "accepted",
+          "title": "Accepted",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Direct Exchanges"
+            }
+          ]
+        },
+        {
+          "id": "not-accepted",
+          "title": "Not accepted",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Standard Return Condition"
+            }
+          ]
+        },
+        {
+          "id": "new-only",
+          "title": "New only",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Return Method"
+            }
+          ]
+        },
+        {
+          "id": "by-mail",
+          "title": "By mail",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Return Label"
+            }
+          ]
+        },
+        {
+          "id": "included-in-package",
+          "title": "Included in package",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Return Shipping Fee"
+            }
+          ]
+        },
+        {
+          "id": "0-00",
+          "title": "$0.00",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Restocking Fee"
+            }
+          ]
+        },
+        {
+          "id": "0-00",
+          "title": "$0.00",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Refund Processing Time"
+            }
+          ]
+        },
+        {
+          "id": "10-days",
+          "title": "10 days",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2. Return Window"
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers have 30 days from delivery to request an eligible return."
+            },
+            {
+              "type": "paragraph",
+              "text": "Requests submitted outside the standard return period may not qualify under this policy."
+            },
+            {
+              "type": "paragraph",
+              "text": "Mandatory consumer rights remain unaffected."
+            }
+          ]
+        },
+        {
+          "id": "3-non-defective-returns",
+          "title": "3. Non-Defective Returns",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We accept eligible returns for non-defective products, including purchases that customers no longer want."
+            }
+          ]
+        },
+        {
+          "id": "for-standard-non-defective-returns-the-item-must",
+          "title": "For standard non-defective returns, the item must:",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Be in new condition"
+            },
+            {
+              "type": "bullet",
+              "text": "Be unused"
+            },
+            {
+              "type": "bullet",
+              "text": "Include supplied accessories and components"
+            },
+            {
+              "type": "bullet",
+              "text": "Include original packaging where applicable"
+            },
+            {
+              "type": "bullet",
+              "text": "Include proof of purchase"
+            },
+            {
+              "type": "paragraph",
+              "text": "Products showing signs of customer misuse, alteration, or damage after delivery may not qualify for standard non-defective returns."
+            }
+          ]
+        },
+        {
+          "id": "4-defective-products",
+          "title": "4. Defective Products",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If an item arrives defective or develops a qualifying issue, contact customer service."
+            }
+          ]
+        },
+        {
+          "id": "provide",
+          "title": "Provide:",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Order number"
+            },
+            {
+              "type": "bullet",
+              "text": "Product name"
+            },
+            {
+              "type": "bullet",
+              "text": "Description of the problem"
+            },
+            {
+              "type": "bullet",
+              "text": "Photographs or videos where available"
+            },
+            {
+              "type": "paragraph",
+              "text": "Defective claims are assessed according to the issue and applicable consumer rights."
+            },
+            {
+              "type": "paragraph",
+              "text": "The new-condition requirement for change-of-mind returns does not automatically disqualify a legitimate defective-product claim."
+            }
+          ]
+        },
+        {
+          "id": "5-damaged-or-incorrect-products",
+          "title": "5. Damaged or Incorrect Products",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you receive a damaged or incorrect product, contact us promptly."
+            },
+            {
+              "type": "paragraph",
+              "text": "We will review the issue and explain the available return, replacement, or refund options as applicable."
+            }
+          ]
+        },
+        {
+          "id": "6-exchange-policy",
+          "title": "6. Exchange Policy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Direct exchanges are not accepted."
+            }
+          ]
+        },
+        {
+          "id": "if-you-would-like-a-different-product-size-model-or-variation-you-may",
+          "title": "If you would like a different product, size, model, or variation, you may:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "1. Request a return for the original eligible product."
+            }
+          ]
+        },
+        {
+          "id": "2-follow-the-authorized-return-process",
+          "title": "2. Follow the authorized return process.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "3. Place a separate order for the desired product."
+            },
+            {
+              "type": "paragraph",
+              "text": "A new purchase is subject to the product's current price and availability."
+            }
+          ]
+        },
+        {
+          "id": "7-how-to-request-a-return",
+          "title": "7. How to Request a Return",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Step 1 \u2014 Contact Customer Service"
+            },
+            {
+              "type": "paragraph",
+              "text": "Call +1 (813) 963-6899 or use the website contact form."
+            },
+            {
+              "type": "paragraph",
+              "text": "Provide your order number and reason for the return."
+            }
+          ]
+        },
+        {
+          "id": "step-2-return-review",
+          "title": "Step 2 \u2014 Return Review",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our team will review your request and explain the applicable return instructions."
+            }
+          ]
+        },
+        {
+          "id": "step-3-package-the-product",
+          "title": "Step 3 \u2014 Package the Product",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Securely package the item with all relevant accessories and documentation."
+            }
+          ]
+        },
+        {
+          "id": "step-4-use-the-free-return-label",
+          "title": "Step 4 \u2014 Use the Free Return Label",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our published policy provides a free return label included in the original package."
+            },
+            {
+              "type": "paragraph",
+              "text": "If the label is missing, contact customer service before sending the item."
+            }
+          ]
+        },
+        {
+          "id": "step-5-return-by-mail",
+          "title": "Step 5 \u2014 Return by Mail",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ship the package according to the authorized instructions."
+            },
+            {
+              "type": "paragraph",
+              "text": "Keep proof of shipment."
+            }
+          ]
+        },
+        {
+          "id": "step-6-return-assessment",
+          "title": "Step 6 \u2014 Return Assessment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "After receiving the product, we may inspect it to confirm eligibility."
+            }
+          ]
+        },
+        {
+          "id": "step-7-refund",
+          "title": "Step 7 \u2014 Refund",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Approved refunds are processed according to our published refund policy."
+            }
+          ]
+        },
+        {
+          "id": "8-return-shipping-fees",
+          "title": "8. Return Shipping Fees",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Return Shipping Fee: $0.00"
+            },
+            {
+              "type": "paragraph",
+              "text": "Eligible approved returns qualify for free return shipping."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should use the provided return label and authorized shipping instructions."
+            }
+          ]
+        },
+        {
+          "id": "9-restocking-fees",
+          "title": "9. Restocking Fees",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Restocking Fee: $0.00"
+            },
+            {
+              "type": "paragraph",
+              "text": "We do not charge restocking fees for eligible returns."
+            }
+          ]
+        },
+        {
+          "id": "10-refund-processing-time",
+          "title": "10. Refund Processing Time",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our published refund processing period is 10 days."
+            },
+            {
+              "type": "paragraph",
+              "text": "Approved refunds are generally issued to the original payment method."
+            },
+            {
+              "type": "paragraph",
+              "text": "Payment providers may require additional time to post funds."
+            }
+          ]
+        },
+        {
+          "id": "11-refund-amount",
+          "title": "11. Refund Amount",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible approved full returns generally qualify for reimbursement of the applicable product purchase amount."
+            },
+            {
+              "type": "paragraph",
+              "text": "No standard restocking fee or return shipping deduction applies."
+            }
+          ]
+        },
+        {
+          "id": "12-product-specific-return-instructions",
+          "title": "12. Product-Specific Return Instructions",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Some products may require special return procedures, including:"
+            },
+            {
+              "type": "bullet",
+              "text": "Chainsaws and power equipment"
+            },
+            {
+              "type": "bullet",
+              "text": "Fireplaces and wood stoves"
+            },
+            {
+              "type": "bullet",
+              "text": "Saunas"
+            },
+            {
+              "type": "bullet",
+              "text": "Large outdoor structures"
+            },
+            {
+              "type": "bullet",
+              "text": "Battery-powered equipment"
+            },
+            {
+              "type": "bullet",
+              "text": "Electronics and computer products"
+            },
+            {
+              "type": "bullet",
+              "text": "Fuel-containing products"
+            },
+            {
+              "type": "paragraph",
+              "text": "Do not return fuel-containing or restricted products without appropriate shipping instructions."
+            }
+          ]
+        },
+        {
+          "id": "13-return-address",
+          "title": "13. Return Address",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers must follow the authorized return instructions provided for their order."
+            },
+            {
+              "type": "paragraph",
+              "text": "Our published business address is not automatically the merchandise return destination."
+            }
+          ]
+        },
+        {
+          "id": "14-refund-questions",
+          "title": "14. Refund Questions",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you have questions about a return or refund, contact customer service with your order number."
+            }
+          ]
+        },
+        {
+          "id": "15-contact-information",
+          "title": "15. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Operated by D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "At Rootedrealm, customer satisfaction is important to us.",
+        "We accept eligible returns for both defective and non-defective products within our published 30-day return window.",
+        "This policy applies to purchases made from Rootedrealm within the United States.",
+        "1. Return Policy Overview",
+        "Policy Detail",
+        "Rootedrealm Policy",
+        "Applicable Country",
+        "United States",
+        "Return Window",
+        "30 days",
+        "Defective Returns",
+        "Accepted",
+        "Non-Defective Returns",
+        "Accepted",
+        "Direct Exchanges",
+        "Not accepted",
+        "Standard Return Condition",
+        "New only",
+        "Return Method",
+        "By mail",
+        "Return Label",
+        "Included in package",
+        "Return Shipping Fee",
+        "$0.00",
+        "Restocking Fee",
+        "$0.00",
+        "Refund Processing Time",
+        "10 days",
+        "2. Return Window",
+        "Customers have 30 days from delivery to request an eligible return.",
+        "Requests submitted outside the standard return period may not qualify under this policy.",
+        "Mandatory consumer rights remain unaffected.",
+        "3. Non-Defective Returns",
+        "We accept eligible returns for non-defective products, including purchases that customers no longer want.",
+        "For standard non-defective returns, the item must:",
+        "* Be in new condition",
+        "* Be unused",
+        "* Include supplied accessories and components",
+        "* Include original packaging where applicable",
+        "* Include proof of purchase",
+        "Products showing signs of customer misuse, alteration, or damage after delivery may not qualify for standard non-defective returns.",
+        "4. Defective Products",
+        "If an item arrives defective or develops a qualifying issue, contact customer service.",
+        "Provide:",
+        "* Order number",
+        "* Product name",
+        "* Description of the problem",
+        "* Photographs or videos where available",
+        "Defective claims are assessed according to the issue and applicable consumer rights.",
+        "The new-condition requirement for change-of-mind returns does not automatically disqualify a legitimate defective-product claim.",
+        "5. Damaged or Incorrect Products",
+        "If you receive a damaged or incorrect product, contact us promptly.",
+        "We will review the issue and explain the available return, replacement, or refund options as applicable.",
+        "6. Exchange Policy",
+        "Direct exchanges are not accepted.",
+        "If you would like a different product, size, model, or variation, you may:",
+        "1. Request a return for the original eligible product.",
+        "2. Follow the authorized return process.",
+        "3. Place a separate order for the desired product.",
+        "A new purchase is subject to the product's current price and availability.",
+        "7. How to Request a Return",
+        "Step 1 \u2014 Contact Customer Service",
+        "Call +1 (813) 963-6899 or use the website contact form.",
+        "Provide your order number and reason for the return.",
+        "Step 2 \u2014 Return Review",
+        "Our team will review your request and explain the applicable return instructions.",
+        "Step 3 \u2014 Package the Product",
+        "Securely package the item with all relevant accessories and documentation.",
+        "Step 4 \u2014 Use the Free Return Label",
+        "Our published policy provides a free return label included in the original package.",
+        "If the label is missing, contact customer service before sending the item.",
+        "Step 5 \u2014 Return by Mail",
+        "Ship the package according to the authorized instructions.",
+        "Keep proof of shipment.",
+        "Step 6 \u2014 Return Assessment",
+        "After receiving the product, we may inspect it to confirm eligibility.",
+        "Step 7 \u2014 Refund",
+        "Approved refunds are processed according to our published refund policy.",
+        "8. Return Shipping Fees",
+        "Return Shipping Fee: $0.00",
+        "Eligible approved returns qualify for free return shipping.",
+        "Customers should use the provided return label and authorized shipping instructions.",
+        "9. Restocking Fees",
+        "Restocking Fee: $0.00",
+        "We do not charge restocking fees for eligible returns.",
+        "10. Refund Processing Time",
+        "Our published refund processing period is 10 days.",
+        "Approved refunds are generally issued to the original payment method.",
+        "Payment providers may require additional time to post funds.",
+        "11. Refund Amount",
+        "Eligible approved full returns generally qualify for reimbursement of the applicable product purchase amount.",
+        "No standard restocking fee or return shipping deduction applies.",
+        "12. Product-Specific Return Instructions",
+        "Some products may require special return procedures, including:",
+        "* Chainsaws and power equipment",
+        "* Fireplaces and wood stoves",
+        "* Saunas",
+        "* Large outdoor structures",
+        "* Battery-powered equipment",
+        "* Electronics and computer products",
+        "* Fuel-containing products",
+        "Do not return fuel-containing or restricted products without appropriate shipping instructions.",
+        "13. Return Address",
+        "Customers must follow the authorized return instructions provided for their order.",
+        "Our published business address is not automatically the merchandise return destination.",
+        "14. Refund Questions",
+        "If you have questions about a return or refund, contact customer service with your order number.",
+        "15. Contact Information",
+        "Rootedrealm",
+        "Operated by D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "cancellation-policy",
+      "title": "Order Cancellations",
+      "effectiveDate": "",
+      "tagline": "Phone: +1 (813) 963-6899",
+      "intro": [
+        "At Rootedrealm, we understand that customers may need to cancel an order."
+      ],
+      "description": "At Rootedrealm, we understand that customers may need to cancel an order.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "At Rootedrealm, we understand that customers may need to cancel an order."
+            },
+            {
+              "type": "paragraph",
+              "text": "This policy explains the cancellation request process."
+            }
+          ]
+        },
+        {
+          "id": "1-requesting-cancellation",
+          "title": "1. Requesting Cancellation",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Contact customer service as soon as possible."
+            }
+          ]
+        },
+        {
+          "id": "phone-1-813-963-6899",
+          "title": "Phone: +1 (813) 963-6899",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Please provide your order number and the name associated with your purchase."
+            }
+          ]
+        },
+        {
+          "id": "2-before-shipment",
+          "title": "2. Before Shipment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Orders that have not yet been dispatched may be eligible for cancellation."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cancellation depends on whether fulfillment can still be stopped."
+            },
+            {
+              "type": "paragraph",
+              "text": "A request is not confirmed until our team communicates approval."
+            }
+          ]
+        },
+        {
+          "id": "3-during-processing",
+          "title": "3. During Processing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our standard processing period is 1\u20132 business days."
+            },
+            {
+              "type": "paragraph",
+              "text": "Contact us promptly if you need to cancel an order during this period."
+            }
+          ]
+        },
+        {
+          "id": "4-after-shipment",
+          "title": "4. After Shipment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Once an order has shipped, cancellation may no longer be possible."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers may request an eligible return after delivery under our 30-day Returns & Refunds Policy."
+            }
+          ]
+        },
+        {
+          "id": "5-cancellation-charges",
+          "title": "5. Cancellation Charges",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "No separate cancellation fee is advertised for successfully canceled orders."
+            }
+          ]
+        },
+        {
+          "id": "6-refunds-for-canceled-orders",
+          "title": "6. Refunds for Canceled Orders",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "When a paid order is successfully canceled, applicable refunds are generally issued to the original payment method."
+            },
+            {
+              "type": "paragraph",
+              "text": "Refund timing depends on the circumstances, payment provider, and applicable legal requirements."
+            }
+          ]
+        },
+        {
+          "id": "7-product-unavailability",
+          "title": "7. Product Unavailability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If an ordered product becomes unavailable, we will communicate the available options and provide an appropriate refund where required."
+            }
+          ]
+        },
+        {
+          "id": "8-shipping-delays",
+          "title": "8. Shipping Delays",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If an order cannot be shipped within the promised or legally required timeframe, customers will receive applicable delay notices and cancellation or refund options."
+            }
+          ]
+        },
+        {
+          "id": "9-address-or-order-changes",
+          "title": "9. Address or Order Changes",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Contact us promptly if you need to correct order information."
+            },
+            {
+              "type": "paragraph",
+              "text": "Changes may not be possible after dispatch."
+            }
+          ]
+        },
+        {
+          "id": "10-contact-information",
+          "title": "10. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "At Rootedrealm, we understand that customers may need to cancel an order.",
+        "This policy explains the cancellation request process.",
+        "1. Requesting Cancellation",
+        "Contact customer service as soon as possible.",
+        "Phone: +1 (813) 963-6899",
+        "Please provide your order number and the name associated with your purchase.",
+        "2. Before Shipment",
+        "Orders that have not yet been dispatched may be eligible for cancellation.",
+        "Cancellation depends on whether fulfillment can still be stopped.",
+        "A request is not confirmed until our team communicates approval.",
+        "3. During Processing",
+        "Our standard processing period is 1\u20132 business days.",
+        "Contact us promptly if you need to cancel an order during this period.",
+        "4. After Shipment",
+        "Once an order has shipped, cancellation may no longer be possible.",
+        "Customers may request an eligible return after delivery under our 30-day Returns & Refunds Policy.",
+        "5. Cancellation Charges",
+        "No separate cancellation fee is advertised for successfully canceled orders.",
+        "6. Refunds for Canceled Orders",
+        "When a paid order is successfully canceled, applicable refunds are generally issued to the original payment method.",
+        "Refund timing depends on the circumstances, payment provider, and applicable legal requirements.",
+        "7. Product Unavailability",
+        "If an ordered product becomes unavailable, we will communicate the available options and provide an appropriate refund where required.",
+        "8. Shipping Delays",
+        "If an order cannot be shipped within the promised or legally required timeframe, customers will receive applicable delay notices and cancellation or refund options.",
+        "9. Address or Order Changes",
+        "Contact us promptly if you need to correct order information.",
+        "Changes may not be possible after dispatch.",
+        "10. Contact Information",
+        "Rootedrealm",
+        "D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "payment-policy",
+      "title": "Payment Options",
+      "effectiveDate": "",
+      "tagline": "Shipping Fee: $0.00",
+      "intro": [
+        "At Rootedrealm, we aim to provide a straightforward and transparent checkout experience."
+      ],
+      "description": "At Rootedrealm, we aim to provide a straightforward and transparent checkout experience.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "At Rootedrealm, we aim to provide a straightforward and transparent checkout experience."
+            }
+          ]
+        },
+        {
+          "id": "1-accepted-payment-methods",
+          "title": "1. Accepted Payment Methods",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The payment methods currently supported by Rootedrealm are displayed during checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "Only payment options shown as available at checkout should be considered supported."
+            }
+          ]
+        },
+        {
+          "id": "2-transaction-currency",
+          "title": "2. Transaction Currency",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Product prices and payments are processed in US dollars (USD)."
+            }
+          ]
+        },
+        {
+          "id": "3-shipping-charges",
+          "title": "3. Shipping Charges",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We provide free standard shipping throughout the United States."
+            }
+          ]
+        },
+        {
+          "id": "shipping-fee-0-00",
+          "title": "Shipping Fee: $0.00",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Applicable taxes are displayed during checkout where required."
+            }
+          ]
+        },
+        {
+          "id": "4-payment-processing",
+          "title": "4. Payment Processing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Payments may be processed through independent third-party payment providers."
+            },
+            {
+              "type": "paragraph",
+              "text": "These providers may perform payment authorization, verification, and fraud prevention checks."
+            }
+          ]
+        },
+        {
+          "id": "5-transaction-security",
+          "title": "5. Transaction Security",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to use appropriate website and payment security measures."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should complete purchases through the official Rootedrealm checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "Never send complete payment card numbers, security codes, or account passwords through a contact form."
+            }
+          ]
+        },
+        {
+          "id": "6-payment-confirmation",
+          "title": "6. Payment Confirmation",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "After completing checkout, customers should receive order confirmation information."
+            },
+            {
+              "type": "paragraph",
+              "text": "If a payment appears successful but no order confirmation is received, contact customer support before placing another order."
+            }
+          ]
+        },
+        {
+          "id": "7-failed-or-declined-payments",
+          "title": "7. Failed or Declined Payments",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If a payment is declined:"
+            }
+          ]
+        },
+        {
+          "id": "1-verify-the-entered-payment-information",
+          "title": "1. Verify the entered payment information.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2. Check that the payment method is active."
+            }
+          ]
+        },
+        {
+          "id": "3-contact-the-issuing-bank-or-payment-provider",
+          "title": "3. Contact the issuing bank or payment provider.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "4. Try another supported payment method if available."
+            }
+          ]
+        },
+        {
+          "id": "5-contact-rootedrealm-for-order-assistance",
+          "title": "5. Contact Rootedrealm for order assistance.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "8. Duplicate Charges"
+            },
+            {
+              "type": "paragraph",
+              "text": "If you believe a transaction has been charged twice, contact customer support with your order number and relevant transaction information."
+            },
+            {
+              "type": "paragraph",
+              "text": "Do not share complete card details."
+            }
+          ]
+        },
+        {
+          "id": "9-refunds",
+          "title": "9. Refunds",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Approved refunds are generally returned to the original payment method."
+            },
+            {
+              "type": "paragraph",
+              "text": "Our published standard return refund processing period is 10 days."
+            }
+          ]
+        },
+        {
+          "id": "10-installment-payments",
+          "title": "10. Installment Payments",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Installment or Buy Now, Pay Later options are available only if a supported provider is actively enabled and displayed during checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "Any financing agreement is subject to the provider's terms and approval requirements."
+            }
+          ]
+        },
+        {
+          "id": "11-customer-support",
+          "title": "11. Customer Support",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Operated by D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "phone-1-813-963-6899",
+          "title": "Phone: +1 (813) 963-6899",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "At Rootedrealm, we aim to provide a straightforward and transparent checkout experience.",
+        "1. Accepted Payment Methods",
+        "The payment methods currently supported by Rootedrealm are displayed during checkout.",
+        "Only payment options shown as available at checkout should be considered supported.",
+        "2. Transaction Currency",
+        "Product prices and payments are processed in US dollars (USD).",
+        "3. Shipping Charges",
+        "We provide free standard shipping throughout the United States.",
+        "Shipping Fee: $0.00",
+        "Applicable taxes are displayed during checkout where required.",
+        "4. Payment Processing",
+        "Payments may be processed through independent third-party payment providers.",
+        "These providers may perform payment authorization, verification, and fraud prevention checks.",
+        "5. Transaction Security",
+        "We aim to use appropriate website and payment security measures.",
+        "Customers should complete purchases through the official Rootedrealm checkout.",
+        "Never send complete payment card numbers, security codes, or account passwords through a contact form.",
+        "6. Payment Confirmation",
+        "After completing checkout, customers should receive order confirmation information.",
+        "If a payment appears successful but no order confirmation is received, contact customer support before placing another order.",
+        "7. Failed or Declined Payments",
+        "If a payment is declined:",
+        "1. Verify the entered payment information.",
+        "2. Check that the payment method is active.",
+        "3. Contact the issuing bank or payment provider.",
+        "4. Try another supported payment method if available.",
+        "5. Contact Rootedrealm for order assistance.",
+        "8. Duplicate Charges",
+        "If you believe a transaction has been charged twice, contact customer support with your order number and relevant transaction information.",
+        "Do not share complete card details.",
+        "9. Refunds",
+        "Approved refunds are generally returned to the original payment method.",
+        "Our published standard return refund processing period is 10 days.",
+        "10. Installment Payments",
+        "Installment or Buy Now, Pay Later options are available only if a supported provider is actively enabled and displayed during checkout.",
+        "Any financing agreement is subject to the provider's terms and approval requirements.",
+        "11. Customer Support",
+        "Rootedrealm",
+        "Operated by D & V Enterprises, Inc.",
+        "Phone: +1 (813) 963-6899",
+        "Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States"
+      ]
+    },
+    {
+      "slug": "buy-now-pay-later",
+      "title": "Buy Now, Pay Later",
+      "effectiveDate": "Effective Date: November 6, 2026",
+      "tagline": "",
+      "intro": [
+        "If installment payment or Buy Now, Pay Later services are offered during checkout, their availability and eligibility are determined by the applicable payment provider."
+      ],
+      "description": "If installment payment or Buy Now, Pay Later services are offered during checkout, their availability and eligibility are determined by the applicable payment provider.",
+      "sections": [
+        {
+          "id": "installment-payments-and-buy-now-pay-later",
+          "title": "11. Installment Payments and Buy Now, Pay Later",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If installment payment or Buy Now, Pay Later services are offered during checkout, their availability and eligibility are determined by the applicable payment provider."
+            },
+            {
+              "type": "paragraph",
+              "text": "These services may allow eligible customers to pay for qualifying purchases according to the provider's repayment terms."
+            },
+            {
+              "type": "paragraph",
+              "text": "Important considerations include:"
+            },
+            {
+              "type": "bullets",
+              "items": [
+                "Approval is not guaranteed.",
+                "Eligibility requirements may apply.",
+                "Available repayment schedules may vary.",
+                "Interest or additional fees may apply depending on the provider and financing arrangement.",
+                "Payment obligations are governed by the provider's terms."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should review all financing terms before completing a transaction."
+            },
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm does not independently guarantee financing approval or interest-free installment plans."
+            },
+            {
+              "type": "paragraph",
+              "text": "Buy Now, Pay Later is available only when an eligible provider is displayed and enabled during checkout."
+            }
+          ]
+        }
+      ],
+      "lines": [
+        "11. Installment Payments and Buy Now, Pay Later",
+        "If installment payment or Buy Now, Pay Later services are offered during checkout, their availability and eligibility are determined by the applicable payment provider.",
+        "These services may allow eligible customers to pay for qualifying purchases according to the provider's repayment terms.",
+        "Important considerations include:",
+        "* Approval is not guaranteed.",
+        "* Eligibility requirements may apply.",
+        "* Available repayment schedules may vary.",
+        "* Interest or additional fees may apply depending on the provider and financing arrangement.",
+        "* Payment obligations are governed by the provider's terms.",
+        "Customers should review all financing terms before completing a transaction.",
+        "Rootedrealm does not independently guarantee financing approval or interest-free installment plans.",
+        "Buy Now, Pay Later is available only when an eligible provider is displayed and enabled during checkout."
+      ]
+    },
+    {
+      "slug": "warranty",
+      "title": "Warranty & Support",
+      "effectiveDate": "",
+      "tagline": "Our team can assist with:",
+      "intro": [
+        "Rootedrealm provides customer assistance for product inquiries, defective items, and applicable warranty information."
+      ],
+      "description": "Rootedrealm provides customer assistance for product inquiries, defective items, and applicable warranty information.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm provides customer assistance for product inquiries, defective items, and applicable warranty information."
+            }
+          ]
+        },
+        {
+          "id": "1-warranty-coverage",
+          "title": "1. Warranty Coverage",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Warranty terms vary by product, manufacturer, and any warranty documentation supplied with the item."
+            },
+            {
+              "type": "paragraph",
+              "text": "Not all products necessarily include the same warranty period or coverage."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should review individual product listings and manufacturer documentation."
+            }
+          ]
+        },
+        {
+          "id": "2-manufacturer-warranties",
+          "title": "2. Manufacturer Warranties",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where applicable, a manufacturer warranty may cover certain qualifying defects."
+            },
+            {
+              "type": "paragraph",
+              "text": "Available remedies depend on the manufacturer's terms and applicable law."
+            }
+          ]
+        },
+        {
+          "id": "3-customer-support",
+          "title": "3. Customer Support",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our team can assist with:"
+            },
+            {
+              "type": "bullet",
+              "text": "Product specifications"
+            },
+            {
+              "type": "bullet",
+              "text": "Compatibility questions"
+            },
+            {
+              "type": "bullet",
+              "text": "Missing accessories"
+            },
+            {
+              "type": "bullet",
+              "text": "Damaged or incorrect deliveries"
+            },
+            {
+              "type": "bullet",
+              "text": "Defective products"
+            },
+            {
+              "type": "bullet",
+              "text": "Return eligibility"
+            },
+            {
+              "type": "bullet",
+              "text": "Available warranty information"
+            },
+            {
+              "type": "bullet",
+              "text": "Order-related questions"
+            }
+          ]
+        },
+        {
+          "id": "4-defective-products",
+          "title": "4. Defective Products",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If a product arrives defective, contact customer support with your order number and a description of the issue."
+            },
+            {
+              "type": "paragraph",
+              "text": "Photographs or videos may assist with the review."
+            },
+            {
+              "type": "paragraph",
+              "text": "Eligible defective returns are accepted within our standard 30-day return window."
+            }
+          ]
+        },
+        {
+          "id": "5-electronics-and-computers",
+          "title": "5. Electronics and Computers",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers purchasing computer monitors, gaming consoles, 3D printers, RAM, scanners, and other electronics should review compatibility and manufacturer warranty information."
+            }
+          ]
+        },
+        {
+          "id": "6-outdoor-power-equipment",
+          "title": "6. Outdoor Power Equipment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Chainsaws, pressure washers, snow blowers, and related equipment may require specific operating and maintenance procedures."
+            },
+            {
+              "type": "paragraph",
+              "text": "Always follow manufacturer instructions and safety warnings."
+            }
+          ]
+        },
+        {
+          "id": "7-fireplaces-and-wood-stoves",
+          "title": "7. Fireplaces and Wood Stoves",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Fireplaces, wood stoves, and related heating equipment may require professional installation and compliance with local building and safety codes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Installation is not included unless expressly stated."
+            }
+          ]
+        },
+        {
+          "id": "8-saunas-and-large-equipment",
+          "title": "8. Saunas and Large Equipment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Review dimensions, electrical requirements, installation instructions, and applicable warranty terms before purchase."
+            }
+          ]
+        },
+        {
+          "id": "9-returns",
+          "title": "9. Returns",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible products may be returned within 30 days under our Returns & Refunds Policy."
+            },
+            {
+              "type": "paragraph",
+              "text": "Direct exchanges are not accepted."
+            }
+          ]
+        },
+        {
+          "id": "10-support-after-the-return-window",
+          "title": "10. Support After the Return Window",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If a problem occurs after 30 days, contact customer service to review any available manufacturer warranty or other applicable remedies."
+            }
+          ]
+        },
+        {
+          "id": "11-consumer-rights",
+          "title": "11. Consumer Rights",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Nothing in this policy removes rights or remedies that cannot legally be waived."
+            }
+          ]
+        },
+        {
+          "id": "12-contact-information",
+          "title": "12. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "Rootedrealm provides customer assistance for product inquiries, defective items, and applicable warranty information.",
+        "1. Warranty Coverage",
+        "Warranty terms vary by product, manufacturer, and any warranty documentation supplied with the item.",
+        "Not all products necessarily include the same warranty period or coverage.",
+        "Customers should review individual product listings and manufacturer documentation.",
+        "2. Manufacturer Warranties",
+        "Where applicable, a manufacturer warranty may cover certain qualifying defects.",
+        "Available remedies depend on the manufacturer's terms and applicable law.",
+        "3. Customer Support",
+        "Our team can assist with:",
+        "* Product specifications",
+        "* Compatibility questions",
+        "* Missing accessories",
+        "* Damaged or incorrect deliveries",
+        "* Defective products",
+        "* Return eligibility",
+        "* Available warranty information",
+        "* Order-related questions",
+        "4. Defective Products",
+        "If a product arrives defective, contact customer support with your order number and a description of the issue.",
+        "Photographs or videos may assist with the review.",
+        "Eligible defective returns are accepted within our standard 30-day return window.",
+        "5. Electronics and Computers",
+        "Customers purchasing computer monitors, gaming consoles, 3D printers, RAM, scanners, and other electronics should review compatibility and manufacturer warranty information.",
+        "6. Outdoor Power Equipment",
+        "Chainsaws, pressure washers, snow blowers, and related equipment may require specific operating and maintenance procedures.",
+        "Always follow manufacturer instructions and safety warnings.",
+        "7. Fireplaces and Wood Stoves",
+        "Fireplaces, wood stoves, and related heating equipment may require professional installation and compliance with local building and safety codes.",
+        "Installation is not included unless expressly stated.",
+        "8. Saunas and Large Equipment",
+        "Review dimensions, electrical requirements, installation instructions, and applicable warranty terms before purchase.",
+        "9. Returns",
+        "Eligible products may be returned within 30 days under our Returns & Refunds Policy.",
+        "Direct exchanges are not accepted.",
+        "10. Support After the Return Window",
+        "If a problem occurs after 30 days, contact customer service to review any available manufacturer warranty or other applicable remedies.",
+        "11. Consumer Rights",
+        "Nothing in this policy removes rights or remedies that cannot legally be waived.",
+        "12. Contact Information",
+        "Rootedrealm",
+        "D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "order-help-center",
+      "title": "Order Help Center",
+      "effectiveDate": "",
+      "tagline": "Welcome to Rootedrealm Customer Support",
+      "intro": [
+        "Find information about placing orders, delivery, cancellations, returns, refunds, and product assistance."
+      ],
+      "description": "Find information about placing orders, delivery, cancellations, returns, refunds, and product assistance.",
+      "sections": [
+        {
+          "id": "welcome-to-rootedrealm-customer-support",
+          "title": "Welcome to Rootedrealm Customer Support",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Find information about placing orders, delivery, cancellations, returns, refunds, and product assistance."
+            }
+          ]
+        },
+        {
+          "id": "1-placing-an-order",
+          "title": "1. Placing an Order",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Browse the online store, select your products, review the product information, and complete checkout."
+            }
+          ]
+        },
+        {
+          "id": "2-order-confirmation",
+          "title": "2. Order Confirmation",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "After checkout, retain your order number and confirmation information."
+            }
+          ]
+        },
+        {
+          "id": "3-order-processing",
+          "title": "3. Order Processing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Orders are typically processed within 1\u20132 business days, Monday through Friday."
+            }
+          ]
+        },
+        {
+          "id": "4-shipping",
+          "title": "4. Shipping",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Free standard shipping is available throughout the United States."
+            }
+          ]
+        },
+        {
+          "id": "transit-3-7-business-days",
+          "title": "Transit: 3\u20137 business days",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Total Estimated Delivery: 4\u20139 business days"
+            }
+          ]
+        },
+        {
+          "id": "5-order-tracking",
+          "title": "5. Order Tracking",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Review the tracking information provided after shipment, where available."
+            }
+          ]
+        },
+        {
+          "id": "6-address-corrections",
+          "title": "6. Address Corrections",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Contact customer support promptly if you need to correct your delivery address."
+            },
+            {
+              "type": "paragraph",
+              "text": "Changes may not be possible after dispatch."
+            }
+          ]
+        },
+        {
+          "id": "7-cancellations",
+          "title": "7. Cancellations",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Cancellation requests should be submitted before shipment."
+            },
+            {
+              "type": "paragraph",
+              "text": "Approval depends on the order's fulfillment status."
+            }
+          ]
+        },
+        {
+          "id": "8-returns",
+          "title": "8. Returns",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible defective and non-defective returns are accepted within 30 days."
+            },
+            {
+              "type": "paragraph",
+              "text": "Standard non-defective returns must be in new condition."
+            }
+          ]
+        },
+        {
+          "id": "9-exchanges",
+          "title": "9. Exchanges",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Direct exchanges are not accepted."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers may return an eligible item and place a separate order."
+            }
+          ]
+        },
+        {
+          "id": "10-return-shipping",
+          "title": "10. Return Shipping",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible returns qualify for free return shipping."
+            },
+            {
+              "type": "paragraph",
+              "text": "Our policy provides a free return label included in the package."
+            }
+          ]
+        },
+        {
+          "id": "11-refunds",
+          "title": "11. Refunds",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our published refund processing period is 10 days."
+            },
+            {
+              "type": "paragraph",
+              "text": "Approved refunds are generally returned to the original payment method."
+            }
+          ]
+        },
+        {
+          "id": "12-damaged-or-incorrect-products",
+          "title": "12. Damaged or Incorrect Products",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Contact customer service promptly and provide your order number and supporting information."
+            }
+          ]
+        },
+        {
+          "id": "13-missing-deliveries",
+          "title": "13. Missing Deliveries",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Review tracking information and contact our team if your package cannot be located."
+            }
+          ]
+        },
+        {
+          "id": "14-payment-questions",
+          "title": "14. Payment Questions",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Available payment methods are displayed at checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "For payment problems, contact customer service or the relevant financial institution."
+            }
+          ]
+        },
+        {
+          "id": "15-product-support",
+          "title": "15. Product Support",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our team can assist with product specifications, compatibility, and available warranty information."
+            }
+          ]
+        },
+        {
+          "id": "16-contact-rootedrealm",
+          "title": "16. Contact Rootedrealm",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Operated by D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Welcome to Rootedrealm Customer Support",
+        "Find information about placing orders, delivery, cancellations, returns, refunds, and product assistance.",
+        "1. Placing an Order",
+        "Browse the online store, select your products, review the product information, and complete checkout.",
+        "2. Order Confirmation",
+        "After checkout, retain your order number and confirmation information.",
+        "3. Order Processing",
+        "Orders are typically processed within 1\u20132 business days, Monday through Friday.",
+        "4. Shipping",
+        "Free standard shipping is available throughout the United States.",
+        "Transit: 3\u20137 business days",
+        "Total Estimated Delivery: 4\u20139 business days",
+        "5. Order Tracking",
+        "Review the tracking information provided after shipment, where available.",
+        "6. Address Corrections",
+        "Contact customer support promptly if you need to correct your delivery address.",
+        "Changes may not be possible after dispatch.",
+        "7. Cancellations",
+        "Cancellation requests should be submitted before shipment.",
+        "Approval depends on the order's fulfillment status.",
+        "8. Returns",
+        "Eligible defective and non-defective returns are accepted within 30 days.",
+        "Standard non-defective returns must be in new condition.",
+        "9. Exchanges",
+        "Direct exchanges are not accepted.",
+        "Customers may return an eligible item and place a separate order.",
+        "10. Return Shipping",
+        "Eligible returns qualify for free return shipping.",
+        "Our policy provides a free return label included in the package.",
+        "11. Refunds",
+        "Our published refund processing period is 10 days.",
+        "Approved refunds are generally returned to the original payment method.",
+        "12. Damaged or Incorrect Products",
+        "Contact customer service promptly and provide your order number and supporting information.",
+        "13. Missing Deliveries",
+        "Review tracking information and contact our team if your package cannot be located.",
+        "14. Payment Questions",
+        "Available payment methods are displayed at checkout.",
+        "For payment problems, contact customer service or the relevant financial institution.",
+        "15. Product Support",
+        "Our team can assist with product specifications, compatibility, and available warranty information.",
+        "16. Contact Rootedrealm",
+        "Rootedrealm",
+        "Operated by D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    }
+  ]
+}

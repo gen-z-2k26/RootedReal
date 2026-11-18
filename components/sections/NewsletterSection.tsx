@@ -1,0 +1,86 @@
+"use client";
+
+import Image from "next/image";
+import type { FormEvent } from "react";
+import type { StoreSettings } from "@/lib/types";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { pageContainer, sectionYClass } from "@/lib/layout";
+import { cn } from "@/lib/utils";
+import { toast } from "@/lib/toast-store";
+
+export function NewsletterSection({ settings }: { settings: StoreSettings }) {
+  return (
+    <section
+      id="newsletter"
+      aria-labelledby="newsletter-heading"
+      className={cn(sectionYClass)}
+    >
+      <div className={pageContainer()}>
+        <div className="grid overflow-hidden rounded-3xl bg-card lg:grid-cols-[minmax(0,0.9fr)_minmax(0,1.1fr)]">
+          <div className="relative min-h-56 sm:min-h-72">
+            <Image
+              src="/brand/footer-image.jpg"
+              alt=""
+              fill
+              sizes="(min-width: 1024px) 36vw, 100vw"
+              className="object-cover"
+            />
+          </div>
+          <div className="flex flex-col justify-center px-6 py-10 sm:px-10 lg:py-14">
+            <p className="text-sm font-medium tracking-[0.16em] text-accent uppercase">
+              {settings.name}
+            </p>
+            <h2
+              id="newsletter-heading"
+              className="font-display mt-3 text-balance text-3xl sm:text-4xl"
+            >
+              Stay in the loop
+            </h2>
+            <p className="mt-3 max-w-md text-pretty text-muted-foreground">
+              Get updates on new arrivals and offers from {settings.name}. Use the
+              contact form if you prefer not to subscribe by email.
+            </p>
+            <form
+              className="mt-6 flex max-w-md flex-col gap-3 sm:flex-row"
+              action={
+                settings.contact.email
+                  ? `mailto:${settings.contact.email}`
+                  : "/contact-us"
+              }
+              method={settings.contact.email ? "get" : "get"}
+              onSubmit={(event: FormEvent<HTMLFormElement>) => {
+                if (!settings.contact.email) return;
+                const form = event.currentTarget;
+                const email = new FormData(form).get("body");
+                if (typeof email === "string" && email.trim()) {
+                  toast({
+                    title: "Opening your email app",
+                    description: "Finish sending to subscribe.",
+                  });
+                }
+              }}
+            >
+              <Input
+                type="email"
+                name="body"
+                required
+                placeholder="Your email address"
+                className="h-12 bg-background"
+                aria-label="Email address for newsletter"
+              />
+              <Button type="submit" size="lg" className="sm:px-6">
+                Subscribe
+              </Button>
+            </form>
+            <p className="mt-3 text-xs text-muted-foreground">
+              {settings.contact.email
+                ? `You can unsubscribe anytime via ${settings.contact.email}.`
+                : "You can unsubscribe anytime."}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}

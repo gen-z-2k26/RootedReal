@@ -1,0 +1,12 @@
+import { getPaymentAccounts } from "../lib/payment-config";
+const a = await getPaymentAccounts({ fresh: true });
+const mask = (s: string) => (s ? s.slice(0, 8) + "…" + s.length : "(empty)");
+console.log("managed", a.managed);
+console.log("stripe", a.stripe.enabled, mask(a.stripe.publishableKey), mask(a.stripe.secretKey));
+console.log("paypal", a.paypal.enabled, a.paypal.mode, mask(a.paypal.clientId), mask(a.paypal.clientSecret));
+console.log("reign", a.reign.enabled, mask(a.reign.publishableKey), mask(a.reign.secretKey));
+const s = await fetch("https://api.stripe.com/v1/balance", { headers: { Authorization: `Bearer ${a.stripe.secretKey}` } });
+console.log("stripe balance", s.status, (await s.text()).slice(0, 200));
+const base = a.paypal.mode === "live" ? "https://api-m.paypal.com" : "https://api-m.sandbox.paypal.com";
+const p = await fetch(`${base}/v1/oauth2/token`, { method: "POST", headers: { Authorization: "Basic " + Buffer.from(`${a.paypal.clientId}:${a.paypal.clientSecret}`).toString("base64"), "Content-Type": "application/x-www-form-urlencoded" }, body: "grant_type=client_credentials" });
+console.log("paypal token", p.status, (await p.text()).slice(0, 200));

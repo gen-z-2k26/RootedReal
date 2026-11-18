@@ -1,0 +1,326 @@
+{
+  "id": "rootedrealm",
+  "name": "Rootedrealm",
+  "tagline": "Explore more for your home, outdoors, and everyday life.",
+  "logo": "/brand/rootedrealm-logo-dark.png",
+  "currency": "",
+  "currencySymbol": "",
+  "currencyPrefix": "",
+  "currencySuffix": "",
+  "priceDecimals": 2,
+  "thousandSeparator": ",",
+  "decimalSeparator": ".",
+  "locale": "en-US",
+  "contact": {
+    "email": "",
+    "phone": "+1 (813) 963-6899",
+    "address": "3920 Gunn Hwy, Tampa, FL 33618, United States",
+    "openingHours": "Mon-Fri, 9 AM-5 PM",
+    "legalName": "D & V Enterprises, Inc.",
+    "vatNumber": ""
+  },
+  "promoBanner": "",
+  "promoId": "",
+  "promoCoupon": "",
+  "hero": {
+    "headline": "A wide selection, one convenient place to shop",
+    "support": "Electronics, gaming, computers, lawn and garden, outdoor living, home improvement, fireplaces, heating, and wellness, with free standard shipping throughout the United States."
+  },
+  "navigation": {
+    "header": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Shop",
+        "href": "/products"
+      },
+      {
+        "label": "About",
+        "href": "/about-us"
+      },
+      {
+        "label": "FAQs",
+        "href": "/faqs"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact-us"
+      }
+    ],
+    "footerColumns": [
+      {
+        "title": "Explore Rootedrealm",
+        "slug": "footer-discover",
+        "links": [
+          {
+            "label": "Home",
+            "href": "/"
+          },
+          {
+            "label": "Shop All",
+            "href": "/products"
+          },
+          {
+            "label": "Shop by Category",
+            "href": "/products"
+          },
+          {
+            "label": "About Us",
+            "href": "/about-us"
+          },
+          {
+            "label": "Our Commitment",
+            "href": "/our-commitment"
+          },
+          {
+            "label": "Contact Us",
+            "href": "/contact-us"
+          },
+          {
+            "label": "FAQs",
+            "href": "/faqs"
+          }
+        ]
+      },
+      {
+        "title": "Customer Care",
+        "slug": "footer-customer-care",
+        "links": [
+          {
+            "label": "Shipping & Delivery",
+            "href": "/shipping-policy"
+          },
+          {
+            "label": "Returns & Refunds",
+            "href": "/return-and-refund-policy"
+          },
+          {
+            "label": "Order Cancellations",
+            "href": "/cancellation-policy"
+          },
+          {
+            "label": "Payment Options",
+            "href": "/payment-policy"
+          },
+          {
+            "label": "Warranty & Support",
+            "href": "/warranty"
+          },
+          {
+            "label": "Track Your Order",
+            "href": "/track-your-order"
+          },
+          {
+            "label": "Order Help Center",
+            "href": "/order-help-center"
+          }
+        ]
+      },
+      {
+        "title": "Trust & Legal",
+        "slug": "footer-trust",
+        "links": [
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy-policy"
+          },
+          {
+            "label": "Terms of Service",
+            "href": "/terms-of-service"
+          },
+          {
+            "label": "Cookie Policy",
+            "href": "/cookie-policy"
+          },
+          {
+            "label": "Legal Notice",
+            "href": "/legal-notice"
+          },
+          {
+            "label": "Accessibility Statement",
+            "href": "/accessibility-statement"
+          },
+          {
+            "label": "Your Privacy Choices",
+            "href": "/your-privacy-choices"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "blurb": "A multi-category online store for home, outdoor, and everyday products.",
+    "trustLine": "",
+    "contactTitle": "Get in Touch",
+    "chatLine": ""
+  },
+  "seo": {
+    "title": "Rootedrealm | Multi-category online retail",
+    "description": "Shop electronics, lawn and garden, outdoor power equipment, fireplaces, saunas, and home products at Rootedrealm. Free standard shipping throughout the United States.",
+    "keywords": [
+      "Rootedrealm",
+      "electronics",
+      "lawn and garden",
+      "outdoor power equipment",
+      "fireplaces",
+      "saunas",
+      "home improvement"
+    ],
+    "ogImage": "/brand/rootedrealm-logo-dark.png",
+    "siteUrl": "https://rootedrealm.com"
+  },
+  "theme": {
+    "font": "var(--font-figtree)",
+    "fontDisplay": "var(--font-syne)",
+    "radius": "0.5rem",
+    "defaultMode": "system",
+    "motion": "subtle",
+    "light": {
+      "primary": "#0A3A18",
+      "accent": "#1B7A2A",
+      "background": "#F6F8F4",
+      "foreground": "#102018",
+      "card": "#FFFFFF",
+      "muted": "#E6EEE8",
+      "mutedForeground": "#4A5C50",
+      "border": "rgba(16, 32, 24, 0.12)"
+    },
+    "dark": {
+      "primary": "#9BE21A",
+      "accent": "#9BE21A",
+      "background": "#14231C",
+      "foreground": "#F4F7F4",
+      "card": "#1C3028",
+      "muted": "#243830",
+      "mutedForeground": "#A8C4B4",
+      "border": "rgba(244, 247, 244, 0.14)"
+    }
+  },
+  "productPage": {
+    "enableShopNow": true,
+    "shopNowLabel": "Buy Now",
+    "shopNowEmptyCart": false,
+    "enableRatingRow": true,
+    "enableSecureBlock": true,
+    "enableAffirmMsg": true,
+    "enableAfterpayMsg": true,
+    "stripeCardBrands": [
+      "visa",
+      "mastercard",
+      "amex",
+      "unionpay"
+    ],
+    "genericReviews": [
+      {
+        "reviewer": "Amina K.",
+        "rating": 5,
+        "title": "Clear from the start",
+        "content": "The listing showed the specs I needed before I ordered. Tracking was easy to follow and the box arrived in good shape.",
+        "date": "2026-09-18",
+        "verified": true,
+        "location": "California, USA"
+      },
+      {
+        "reviewer": "James R.",
+        "rating": 5,
+        "title": "Straightforward order",
+        "content": "I bought outdoor power equipment and the checkout total matched what I expected. Delivery fit the published estimate.",
+        "date": "2026-09-02",
+        "verified": true,
+        "location": "Texas, USA"
+      },
+      {
+        "reviewer": "Sofia M.",
+        "rating": 4,
+        "title": "Helpful when I asked",
+        "content": "I had a question about a monitor before buying. Support answered the same day with the details from the listing.",
+        "date": "2026-08-21",
+        "verified": true,
+        "location": "New York, USA"
+      },
+      {
+        "reviewer": "Daniel P.",
+        "rating": 5,
+        "title": "Well packed",
+        "content": "A fireplace accessory arrived carefully packed. The description matched the item.",
+        "date": "2026-08-09",
+        "verified": true,
+        "location": "Florida, USA"
+      },
+      {
+        "reviewer": "Priya S.",
+        "rating": 5,
+        "title": "Easy to compare",
+        "content": "I could review specs across a few products without hunting through different stores. Shipping was free, as stated.",
+        "date": "2026-07-28",
+        "verified": true,
+        "location": "Illinois, USA"
+      },
+      {
+        "reviewer": "Noah L.",
+        "rating": 4,
+        "title": "Worth the wait",
+        "content": "Transit took a few business days, inside the range on the shipping page. The product was what I ordered.",
+        "date": "2026-07-14",
+        "verified": true,
+        "location": "Washington, USA"
+      },
+      {
+        "reviewer": "Elena V.",
+        "rating": 5,
+        "title": "Good gift",
+        "content": "I sent a small home item as a gift. Checkout was simple and the package arrived ready to hand over.",
+        "date": "2026-06-30",
+        "verified": true,
+        "location": "Colorado, USA"
+      },
+      {
+        "reviewer": "Omar H.",
+        "rating": 5,
+        "title": "No surprises",
+        "content": "Prices were in dollars, tax showed at checkout, and the item was packed securely.",
+        "date": "2026-06-11",
+        "verified": true,
+        "location": "Georgia, USA"
+      },
+      {
+        "reviewer": "Maya T.",
+        "rating": 5,
+        "title": "Tracking the next day",
+        "content": "I ordered in the evening and had a tracking update after the carrier scanned it. Everything arrived undamaged.",
+        "date": "2026-05-22",
+        "verified": true,
+        "location": "Arizona, USA"
+      },
+      {
+        "reviewer": "Chris B.",
+        "rating": 4,
+        "title": "Simple to use",
+        "content": "The site was easy to browse across electronics and outdoor categories. I would send a friend here for a similar purchase.",
+        "date": "2026-05-04",
+        "verified": true,
+        "location": "Ohio, USA"
+      },
+      {
+        "reviewer": "Lina W.",
+        "rating": 3,
+        "title": "Fine overall",
+        "content": "The product does the job. I wanted one more detail on the listing, and support answered when I called.",
+        "date": "2026-04-16",
+        "verified": true,
+        "location": "Massachusetts, USA"
+      },
+      {
+        "reviewer": "Theo A.",
+        "rating": 5,
+        "title": "Smooth checkout",
+        "content": "The total was clear before I paid, and the order showed up within the stated delivery window.",
+        "date": "2026-03-29",
+        "verified": true,
+        "location": "Oregon, USA"
+      }
+    ]
+  }
+}

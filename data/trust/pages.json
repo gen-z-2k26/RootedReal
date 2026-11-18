@@ -1,0 +1,3237 @@
+{
+  "pages": [
+    {
+      "slug": "privacy-policy",
+      "title": "Privacy Policy",
+      "effectiveDate": "",
+      "tagline": "Personal and Contact Information",
+      "intro": [
+        "At Rootedrealm, operated by D & V Enterprises, Inc., we recognize the importance of protecting customer information."
+      ],
+      "description": "At Rootedrealm, operated by D & V Enterprises, Inc., we recognize the importance of protecting customer information.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "At Rootedrealm, operated by D & V Enterprises, Inc., we recognize the importance of protecting customer information."
+            },
+            {
+              "type": "paragraph",
+              "text": "This Privacy Policy explains how we may collect, use, disclose, retain, and protect personal information when customers visit our online store, make purchases, or contact customer service."
+            }
+          ]
+        },
+        {
+          "id": "1-information-we-collect",
+          "title": "1. Information We Collect",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Depending on how you interact with our website, we may collect the following information."
+            }
+          ]
+        },
+        {
+          "id": "personal-and-contact-information",
+          "title": "Personal and Contact Information",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Full name"
+            },
+            {
+              "type": "bullet",
+              "text": "Email address"
+            },
+            {
+              "type": "bullet",
+              "text": "Phone number"
+            },
+            {
+              "type": "bullet",
+              "text": "Billing address"
+            },
+            {
+              "type": "bullet",
+              "text": "Shipping address"
+            }
+          ]
+        },
+        {
+          "id": "order-information",
+          "title": "Order Information",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Products purchased"
+            },
+            {
+              "type": "bullet",
+              "text": "Order numbers"
+            },
+            {
+              "type": "bullet",
+              "text": "Purchase dates"
+            },
+            {
+              "type": "bullet",
+              "text": "Transaction amounts"
+            },
+            {
+              "type": "bullet",
+              "text": "Shipping details"
+            },
+            {
+              "type": "bullet",
+              "text": "Return and refund records"
+            }
+          ]
+        },
+        {
+          "id": "payment-information",
+          "title": "Payment Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Payments may be processed through third-party payment providers."
+            },
+            {
+              "type": "paragraph",
+              "text": "We may receive transaction confirmations, payment status, and limited information necessary to manage purchases and refunds."
+            },
+            {
+              "type": "paragraph",
+              "text": "Complete payment card information should be processed through the applicable payment provider."
+            }
+          ]
+        },
+        {
+          "id": "technical-and-usage-information",
+          "title": "Technical and Usage Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Depending on the website technologies used, we may collect:"
+            },
+            {
+              "type": "bullet",
+              "text": "IP address"
+            },
+            {
+              "type": "bullet",
+              "text": "Browser type"
+            },
+            {
+              "type": "bullet",
+              "text": "Device information"
+            },
+            {
+              "type": "bullet",
+              "text": "Operating system"
+            },
+            {
+              "type": "bullet",
+              "text": "Website activity"
+            },
+            {
+              "type": "bullet",
+              "text": "Referral information"
+            },
+            {
+              "type": "bullet",
+              "text": "Cookie identifiers"
+            },
+            {
+              "type": "bullet",
+              "text": "Approximate location information"
+            }
+          ]
+        },
+        {
+          "id": "customer-communications",
+          "title": "Customer Communications",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may retain information submitted through contact forms, support requests, and other customer communications."
+            }
+          ]
+        },
+        {
+          "id": "2-how-we-collect-information",
+          "title": "2. How We Collect Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may collect information:"
+            },
+            {
+              "type": "bullet",
+              "text": "Directly during checkout"
+            },
+            {
+              "type": "bullet",
+              "text": "Through customer account registration, where available"
+            },
+            {
+              "type": "bullet",
+              "text": "When customers contact support"
+            },
+            {
+              "type": "bullet",
+              "text": "During return or refund requests"
+            },
+            {
+              "type": "bullet",
+              "text": "Automatically through website technologies"
+            },
+            {
+              "type": "bullet",
+              "text": "From payment and fulfillment providers"
+            }
+          ]
+        },
+        {
+          "id": "3-how-we-use-personal-information",
+          "title": "3. How We Use Personal Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may use information to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Process purchases"
+            },
+            {
+              "type": "bullet",
+              "text": "Verify transactions"
+            },
+            {
+              "type": "bullet",
+              "text": "Fulfill orders"
+            },
+            {
+              "type": "bullet",
+              "text": "Arrange deliveries"
+            },
+            {
+              "type": "bullet",
+              "text": "Provide shipment tracking"
+            },
+            {
+              "type": "bullet",
+              "text": "Handle cancellations"
+            },
+            {
+              "type": "bullet",
+              "text": "Process returns and refunds"
+            },
+            {
+              "type": "bullet",
+              "text": "Respond to customer inquiries"
+            },
+            {
+              "type": "bullet",
+              "text": "Maintain website functionality"
+            },
+            {
+              "type": "bullet",
+              "text": "Prevent fraud"
+            },
+            {
+              "type": "bullet",
+              "text": "Protect website security"
+            },
+            {
+              "type": "bullet",
+              "text": "Meet accounting and legal obligations"
+            },
+            {
+              "type": "bullet",
+              "text": "Improve our services"
+            },
+            {
+              "type": "bullet",
+              "text": "Send marketing communications where permitted"
+            }
+          ]
+        },
+        {
+          "id": "4-payment-processing",
+          "title": "4. Payment Processing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Transactions may be processed by independent payment providers."
+            },
+            {
+              "type": "paragraph",
+              "text": "These providers may handle payment information according to their own privacy policies."
+            }
+          ]
+        },
+        {
+          "id": "5-shipping-and-fulfillment",
+          "title": "5. Shipping and Fulfillment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may share relevant customer information with shipping carriers and fulfillment providers to deliver purchases."
+            },
+            {
+              "type": "paragraph",
+              "text": "This may include names, addresses, contact information, and shipment details."
+            }
+          ]
+        },
+        {
+          "id": "6-cookies-and-tracking-technologies",
+          "title": "6. Cookies and Tracking Technologies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website may use cookies and related technologies for:"
+            },
+            {
+              "type": "bullet",
+              "text": "Shopping cart functionality"
+            },
+            {
+              "type": "bullet",
+              "text": "Checkout sessions"
+            },
+            {
+              "type": "bullet",
+              "text": "Customer preferences"
+            },
+            {
+              "type": "bullet",
+              "text": "Website security"
+            },
+            {
+              "type": "bullet",
+              "text": "Analytics, where enabled"
+            },
+            {
+              "type": "bullet",
+              "text": "Advertising measurement, where enabled"
+            },
+            {
+              "type": "paragraph",
+              "text": "Additional information is provided in our Cookie Policy."
+            }
+          ]
+        },
+        {
+          "id": "7-information-sharing",
+          "title": "7. Information Sharing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may disclose information to service providers supporting our operations, including:"
+            },
+            {
+              "type": "bullet",
+              "text": "Payment processors"
+            },
+            {
+              "type": "bullet",
+              "text": "Shipping carriers"
+            },
+            {
+              "type": "bullet",
+              "text": "Fulfillment providers"
+            },
+            {
+              "type": "bullet",
+              "text": "Website hosting providers"
+            },
+            {
+              "type": "bullet",
+              "text": "Customer support providers"
+            },
+            {
+              "type": "bullet",
+              "text": "Analytics services, where enabled"
+            },
+            {
+              "type": "bullet",
+              "text": "Advertising services, where enabled"
+            },
+            {
+              "type": "bullet",
+              "text": "Professional advisers"
+            },
+            {
+              "type": "bullet",
+              "text": "Government authorities where legally required"
+            }
+          ]
+        },
+        {
+          "id": "8-sale-sharing-and-targeted-advertising",
+          "title": "8. Sale, Sharing, and Targeted Advertising",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Certain advertising or analytics arrangements may qualify as selling, sharing, or targeted advertising under applicable privacy laws."
+            },
+            {
+              "type": "paragraph",
+              "text": "Whether these activities occur depends on the technologies actually used by Rootedrealm."
+            },
+            {
+              "type": "paragraph",
+              "text": "Where legally required, eligible customers must be provided with appropriate opt-out mechanisms."
+            }
+          ]
+        },
+        {
+          "id": "9-data-retention",
+          "title": "9. Data Retention",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may retain information for periods reasonably necessary to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Fulfill orders"
+            },
+            {
+              "type": "bullet",
+              "text": "Process refunds"
+            },
+            {
+              "type": "bullet",
+              "text": "Maintain financial records"
+            },
+            {
+              "type": "bullet",
+              "text": "Comply with tax obligations"
+            },
+            {
+              "type": "bullet",
+              "text": "Address disputes"
+            },
+            {
+              "type": "bullet",
+              "text": "Prevent fraud"
+            },
+            {
+              "type": "bullet",
+              "text": "Maintain security"
+            },
+            {
+              "type": "bullet",
+              "text": "Meet legal requirements"
+            },
+            {
+              "type": "paragraph",
+              "text": "Retention periods depend on the information and applicable obligations."
+            }
+          ]
+        },
+        {
+          "id": "10-information-security",
+          "title": "10. Information Security",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to maintain reasonable administrative, technical, and organizational safeguards."
+            },
+            {
+              "type": "paragraph",
+              "text": "However, no internet-based service can guarantee absolute security."
+            }
+          ]
+        },
+        {
+          "id": "11-customer-privacy-rights",
+          "title": "11. Customer Privacy Rights",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Depending on applicable law, eligible customers may have rights to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Access personal information"
+            },
+            {
+              "type": "bullet",
+              "text": "Correct inaccurate information"
+            },
+            {
+              "type": "bullet",
+              "text": "Request deletion"
+            },
+            {
+              "type": "bullet",
+              "text": "Obtain copies of certain information"
+            },
+            {
+              "type": "bullet",
+              "text": "Opt out of specified data sales or sharing"
+            },
+            {
+              "type": "bullet",
+              "text": "Opt out of targeted advertising"
+            },
+            {
+              "type": "bullet",
+              "text": "Withdraw consent where applicable"
+            },
+            {
+              "type": "bullet",
+              "text": "Appeal certain privacy decisions"
+            },
+            {
+              "type": "paragraph",
+              "text": "Rights may be subject to verification and lawful exceptions."
+            }
+          ]
+        },
+        {
+          "id": "12-florida-and-other-us-state-privacy-rights",
+          "title": "12. Florida and Other US State Privacy Rights",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Residents of certain US states may have additional privacy rights."
+            },
+            {
+              "type": "paragraph",
+              "text": "The applicability of these rights depends on relevant legal requirements and business circumstances."
+            }
+          ]
+        },
+        {
+          "id": "13-global-privacy-control",
+          "title": "13. Global Privacy Control",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Global Privacy Control (GPC) is a browser-based privacy preference signal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Where legally required, qualifying GPC signals must be recognized and handled appropriately."
+            }
+          ]
+        },
+        {
+          "id": "14-marketing-communications",
+          "title": "14. Marketing Communications",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where promotional communications are offered, customers may unsubscribe using the provided mechanism."
+            },
+            {
+              "type": "paragraph",
+              "text": "Necessary order-related communications may continue."
+            }
+          ]
+        },
+        {
+          "id": "15-children-s-privacy",
+          "title": "15. Children's Privacy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website is not directed toward children under 13."
+            },
+            {
+              "type": "paragraph",
+              "text": "We do not intend to knowingly collect children's personal information in violation of applicable law."
+            }
+          ]
+        },
+        {
+          "id": "16-third-party-websites",
+          "title": "16. Third-Party Websites",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website may contain links to independent third-party websites."
+            },
+            {
+              "type": "paragraph",
+              "text": "Their privacy practices are governed by their own policies."
+            }
+          ]
+        },
+        {
+          "id": "17-international-data-processing",
+          "title": "17. International Data Processing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Certain service providers may process information outside the United States."
+            },
+            {
+              "type": "paragraph",
+              "text": "Where applicable, appropriate safeguards should be used."
+            }
+          ]
+        },
+        {
+          "id": "18-privacy-requests",
+          "title": "18. Privacy Requests",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers may contact Rootedrealm to submit applicable privacy requests."
+            }
+          ]
+        },
+        {
+          "id": "please-include",
+          "title": "Please include:",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Your name"
+            },
+            {
+              "type": "bullet",
+              "text": "Relevant contact information"
+            },
+            {
+              "type": "bullet",
+              "text": "A description of the request"
+            },
+            {
+              "type": "bullet",
+              "text": "Any applicable order reference"
+            },
+            {
+              "type": "paragraph",
+              "text": "We may require reasonable identity verification."
+            }
+          ]
+        },
+        {
+          "id": "19-policy-updates",
+          "title": "19. Policy Updates",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may update this Privacy Policy to reflect changes in our operations, technologies, or legal obligations."
+            },
+            {
+              "type": "paragraph",
+              "text": "Updates will be reflected in the revised date."
+            }
+          ]
+        },
+        {
+          "id": "20-contact-information",
+          "title": "20. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Legal Business Name: D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Privacy inquiries may be submitted through our website contact form or confirmed customer support email."
+            }
+          ]
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "At Rootedrealm, operated by D & V Enterprises, Inc., we recognize the importance of protecting customer information.",
+        "This Privacy Policy explains how we may collect, use, disclose, retain, and protect personal information when customers visit our online store, make purchases, or contact customer service.",
+        "1. Information We Collect",
+        "Depending on how you interact with our website, we may collect the following information.",
+        "Personal and Contact Information",
+        "* Full name",
+        "* Email address",
+        "* Phone number",
+        "* Billing address",
+        "* Shipping address",
+        "Order Information",
+        "* Products purchased",
+        "* Order numbers",
+        "* Purchase dates",
+        "* Transaction amounts",
+        "* Shipping details",
+        "* Return and refund records",
+        "Payment Information",
+        "Payments may be processed through third-party payment providers.",
+        "We may receive transaction confirmations, payment status, and limited information necessary to manage purchases and refunds.",
+        "Complete payment card information should be processed through the applicable payment provider.",
+        "Technical and Usage Information",
+        "Depending on the website technologies used, we may collect:",
+        "* IP address",
+        "* Browser type",
+        "* Device information",
+        "* Operating system",
+        "* Website activity",
+        "* Referral information",
+        "* Cookie identifiers",
+        "* Approximate location information",
+        "Customer Communications",
+        "We may retain information submitted through contact forms, support requests, and other customer communications.",
+        "2. How We Collect Information",
+        "We may collect information:",
+        "* Directly during checkout",
+        "* Through customer account registration, where available",
+        "* When customers contact support",
+        "* During return or refund requests",
+        "* Automatically through website technologies",
+        "* From payment and fulfillment providers",
+        "3. How We Use Personal Information",
+        "We may use information to:",
+        "* Process purchases",
+        "* Verify transactions",
+        "* Fulfill orders",
+        "* Arrange deliveries",
+        "* Provide shipment tracking",
+        "* Handle cancellations",
+        "* Process returns and refunds",
+        "* Respond to customer inquiries",
+        "* Maintain website functionality",
+        "* Prevent fraud",
+        "* Protect website security",
+        "* Meet accounting and legal obligations",
+        "* Improve our services",
+        "* Send marketing communications where permitted",
+        "4. Payment Processing",
+        "Transactions may be processed by independent payment providers.",
+        "These providers may handle payment information according to their own privacy policies.",
+        "5. Shipping and Fulfillment",
+        "We may share relevant customer information with shipping carriers and fulfillment providers to deliver purchases.",
+        "This may include names, addresses, contact information, and shipment details.",
+        "6. Cookies and Tracking Technologies",
+        "Our website may use cookies and related technologies for:",
+        "* Shopping cart functionality",
+        "* Checkout sessions",
+        "* Customer preferences",
+        "* Website security",
+        "* Analytics, where enabled",
+        "* Advertising measurement, where enabled",
+        "Additional information is provided in our Cookie Policy.",
+        "7. Information Sharing",
+        "We may disclose information to service providers supporting our operations, including:",
+        "* Payment processors",
+        "* Shipping carriers",
+        "* Fulfillment providers",
+        "* Website hosting providers",
+        "* Customer support providers",
+        "* Analytics services, where enabled",
+        "* Advertising services, where enabled",
+        "* Professional advisers",
+        "* Government authorities where legally required",
+        "8. Sale, Sharing, and Targeted Advertising",
+        "Certain advertising or analytics arrangements may qualify as selling, sharing, or targeted advertising under applicable privacy laws.",
+        "Whether these activities occur depends on the technologies actually used by Rootedrealm.",
+        "Where legally required, eligible customers must be provided with appropriate opt-out mechanisms.",
+        "9. Data Retention",
+        "We may retain information for periods reasonably necessary to:",
+        "* Fulfill orders",
+        "* Process refunds",
+        "* Maintain financial records",
+        "* Comply with tax obligations",
+        "* Address disputes",
+        "* Prevent fraud",
+        "* Maintain security",
+        "* Meet legal requirements",
+        "Retention periods depend on the information and applicable obligations.",
+        "10. Information Security",
+        "We aim to maintain reasonable administrative, technical, and organizational safeguards.",
+        "However, no internet-based service can guarantee absolute security.",
+        "11. Customer Privacy Rights",
+        "Depending on applicable law, eligible customers may have rights to:",
+        "* Access personal information",
+        "* Correct inaccurate information",
+        "* Request deletion",
+        "* Obtain copies of certain information",
+        "* Opt out of specified data sales or sharing",
+        "* Opt out of targeted advertising",
+        "* Withdraw consent where applicable",
+        "* Appeal certain privacy decisions",
+        "Rights may be subject to verification and lawful exceptions.",
+        "12. Florida and Other US State Privacy Rights",
+        "Residents of certain US states may have additional privacy rights.",
+        "The applicability of these rights depends on relevant legal requirements and business circumstances.",
+        "13. Global Privacy Control",
+        "Global Privacy Control (GPC) is a browser-based privacy preference signal.",
+        "Where legally required, qualifying GPC signals must be recognized and handled appropriately.",
+        "14. Marketing Communications",
+        "Where promotional communications are offered, customers may unsubscribe using the provided mechanism.",
+        "Necessary order-related communications may continue.",
+        "15. Children's Privacy",
+        "Our website is not directed toward children under 13.",
+        "We do not intend to knowingly collect children's personal information in violation of applicable law.",
+        "16. Third-Party Websites",
+        "Our website may contain links to independent third-party websites.",
+        "Their privacy practices are governed by their own policies.",
+        "17. International Data Processing",
+        "Certain service providers may process information outside the United States.",
+        "Where applicable, appropriate safeguards should be used.",
+        "18. Privacy Requests",
+        "Customers may contact Rootedrealm to submit applicable privacy requests.",
+        "Please include:",
+        "* Your name",
+        "* Relevant contact information",
+        "* A description of the request",
+        "* Any applicable order reference",
+        "We may require reasonable identity verification.",
+        "19. Policy Updates",
+        "We may update this Privacy Policy to reflect changes in our operations, technologies, or legal obligations.",
+        "Updates will be reflected in the revised date.",
+        "20. Contact Information",
+        "Rootedrealm",
+        "Legal Business Name: D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+        "Privacy inquiries may be submitted through our website contact form or confirmed customer support email."
+      ]
+    },
+    {
+      "slug": "terms-of-service",
+      "title": "Terms of Service",
+      "effectiveDate": "",
+      "tagline": "Store Name: Rootedrealm",
+      "intro": [
+        "Welcome to Rootedrealm.",
+        "These Terms of Service govern the use of our online store and purchases made through our website."
+      ],
+      "description": "These Terms of Service govern the use of our online store and purchases made through our website.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "Welcome to Rootedrealm."
+            },
+            {
+              "type": "paragraph",
+              "text": "These Terms of Service govern the use of our online store and purchases made through our website."
+            },
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm is operated by D & V Enterprises, Inc."
+            },
+            {
+              "type": "paragraph",
+              "text": "By accessing or using our website, you agree to these Terms to the extent permitted by applicable law."
+            }
+          ]
+        },
+        {
+          "id": "1-business-information",
+          "title": "1. Business Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Store Name: Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Legal Business Name: D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "business-address",
+          "title": "Business Address:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "3920 Gunn Hwy"
+            }
+          ]
+        },
+        {
+          "id": "tampa-fl-33618",
+          "title": "Tampa, FL 33618",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "United States"
+            }
+          ]
+        },
+        {
+          "id": "phone-1-813-963-6899",
+          "title": "Phone: +1 (813) 963-6899",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2. Eligibility"
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers must have the legal capacity to enter into a purchase agreement."
+            }
+          ]
+        },
+        {
+          "id": "3-website-use",
+          "title": "3. Website Use",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Users must not:"
+            },
+            {
+              "type": "bullet",
+              "text": "Submit fraudulent orders"
+            },
+            {
+              "type": "bullet",
+              "text": "Use unauthorized payment information"
+            },
+            {
+              "type": "bullet",
+              "text": "Attempt unauthorized website access"
+            },
+            {
+              "type": "bullet",
+              "text": "Introduce malware"
+            },
+            {
+              "type": "bullet",
+              "text": "Interfere with website functionality"
+            },
+            {
+              "type": "bullet",
+              "text": "Violate applicable laws"
+            }
+          ]
+        },
+        {
+          "id": "4-product-information",
+          "title": "4. Product Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to provide accurate product descriptions, specifications, images, and pricing."
+            },
+            {
+              "type": "paragraph",
+              "text": "Product information may occasionally contain errors or require updates."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should review individual listings before purchasing."
+            }
+          ]
+        },
+        {
+          "id": "5-product-availability",
+          "title": "5. Product Availability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Products are subject to availability."
+            },
+            {
+              "type": "paragraph",
+              "text": "Adding an item to a cart does not guarantee inventory reservation."
+            },
+            {
+              "type": "paragraph",
+              "text": "If a product becomes unavailable after purchase, we will communicate the available options."
+            }
+          ]
+        },
+        {
+          "id": "6-pricing",
+          "title": "6. Pricing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Prices are displayed during shopping and checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "Applicable taxes are calculated or displayed where required."
+            },
+            {
+              "type": "paragraph",
+              "text": "Prices may change without advance notice."
+            }
+          ]
+        },
+        {
+          "id": "7-order-placement",
+          "title": "7. Order Placement",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Submitting an order constitutes a request to purchase the selected products."
+            },
+            {
+              "type": "paragraph",
+              "text": "Orders may be subject to payment verification and inventory confirmation."
+            },
+            {
+              "type": "paragraph",
+              "text": "An automated order acknowledgment does not necessarily establish final acceptance for fulfillment."
+            }
+          ]
+        },
+        {
+          "id": "8-payments",
+          "title": "8. Payments",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Available payment methods are displayed at checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers must use payment methods they are authorized to use."
+            }
+          ]
+        },
+        {
+          "id": "9-shipping",
+          "title": "9. Shipping",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm offers free standard shipping throughout the United States."
+            }
+          ]
+        },
+        {
+          "id": "our-standard-estimated-delivery-times-are",
+          "title": "Our standard estimated delivery times are:",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Processing: 1\u20132 business days"
+            },
+            {
+              "type": "bullet",
+              "text": "Transit: 3\u20137 business days"
+            },
+            {
+              "type": "bullet",
+              "text": "Total delivery: 4\u20139 business days"
+            },
+            {
+              "type": "paragraph",
+              "text": "Delivery estimates are not guaranteed arrival dates."
+            }
+          ]
+        },
+        {
+          "id": "10-shipping-information",
+          "title": "10. Shipping Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers must provide complete and accurate shipping information."
+            },
+            {
+              "type": "paragraph",
+              "text": "Address changes may not be possible after dispatch."
+            }
+          ]
+        },
+        {
+          "id": "11-order-cancellations",
+          "title": "11. Order Cancellations",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers may request cancellation before shipment."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cancellation availability depends on the fulfillment status."
+            }
+          ]
+        },
+        {
+          "id": "12-returns-and-refunds",
+          "title": "12. Returns and Refunds",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our standard return policy includes:"
+            },
+            {
+              "type": "bullet",
+              "text": "30-day return window"
+            },
+            {
+              "type": "bullet",
+              "text": "Eligible defective and non-defective returns"
+            },
+            {
+              "type": "bullet",
+              "text": "New-condition requirements for standard non-defective returns"
+            },
+            {
+              "type": "bullet",
+              "text": "Returns by mail"
+            },
+            {
+              "type": "bullet",
+              "text": "Free return shipping"
+            },
+            {
+              "type": "bullet",
+              "text": "No restocking fees"
+            },
+            {
+              "type": "bullet",
+              "text": "Refund processing period of 10 days"
+            },
+            {
+              "type": "paragraph",
+              "text": "Direct exchanges are not accepted."
+            },
+            {
+              "type": "paragraph",
+              "text": "Please review our complete Returns & Refunds Policy."
+            }
+          ]
+        },
+        {
+          "id": "13-product-warranties",
+          "title": "13. Product Warranties",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Warranty coverage depends on the product, manufacturer, and applicable warranty terms."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nothing in these Terms removes mandatory consumer rights."
+            }
+          ]
+        },
+        {
+          "id": "14-product-compatibility",
+          "title": "14. Product Compatibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers should review specifications, dimensions, compatibility, and installation requirements before purchasing technical products."
+            }
+          ]
+        },
+        {
+          "id": "15-product-safety",
+          "title": "15. Product Safety",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Products such as chainsaws, power equipment, fireplaces, wood stoves, electrical devices, and batteries may require specific safety precautions."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should follow manufacturer instructions and applicable regulations."
+            }
+          ]
+        },
+        {
+          "id": "16-installation",
+          "title": "16. Installation",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Installation, assembly, and removal services are not included unless expressly stated in the product listing or purchase agreement."
+            }
+          ]
+        },
+        {
+          "id": "17-promotional-offers",
+          "title": "17. Promotional Offers",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Promotions may be subject to specific eligibility requirements, limitations, and expiration dates."
+            }
+          ]
+        },
+        {
+          "id": "18-customer-accounts",
+          "title": "18. Customer Accounts",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where customer accounts are available, users are responsible for protecting their account credentials."
+            }
+          ]
+        },
+        {
+          "id": "19-intellectual-property",
+          "title": "19. Intellectual Property",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Original website content, graphics, branding, and other protected materials may belong to Rootedrealm or relevant rights holders."
+            },
+            {
+              "type": "paragraph",
+              "text": "Unauthorized reproduction may violate applicable law."
+            }
+          ]
+        },
+        {
+          "id": "20-third-party-trademarks",
+          "title": "20. Third-Party Trademarks",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Manufacturer names and trademarks remain the property of their respective owners."
+            },
+            {
+              "type": "paragraph",
+              "text": "Their appearance on our website does not independently establish endorsement or affiliation."
+            }
+          ]
+        },
+        {
+          "id": "21-customer-reviews",
+          "title": "21. Customer Reviews",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where customer reviews are enabled, submitted content must comply with applicable law."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nothing in these Terms is intended to restrict lawful consumer reviews."
+            }
+          ]
+        },
+        {
+          "id": "22-third-party-services",
+          "title": "22. Third-Party Services",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Payment, shipping, and other website services may be provided by independent third parties."
+            },
+            {
+              "type": "paragraph",
+              "text": "Their services may be governed by separate terms."
+            }
+          ]
+        },
+        {
+          "id": "23-website-availability",
+          "title": "23. Website Availability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to maintain reliable website functionality but cannot guarantee uninterrupted access."
+            }
+          ]
+        },
+        {
+          "id": "24-limitation-of-liability",
+          "title": "24. Limitation of Liability",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "To the extent permitted by applicable law, certain liability may be limited for circumstances outside our reasonable control."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nothing in these Terms excludes liability or rights that cannot legally be limited."
+            }
+          ]
+        },
+        {
+          "id": "25-consumer-rights",
+          "title": "25. Consumer Rights",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Mandatory consumer protection requirements take precedence over conflicting provisions of these Terms."
+            }
+          ]
+        },
+        {
+          "id": "26-governing-law",
+          "title": "26. Governing Law",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "These Terms are generally governed by applicable laws of the United States and the State of Florida, subject to mandatory consumer protection and jurisdictional requirements."
+            }
+          ]
+        },
+        {
+          "id": "27-dispute-resolution",
+          "title": "27. Dispute Resolution",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers are encouraged to contact our support team to seek a resolution."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nothing in these Terms prevents customers from exercising lawful rights through courts, payment providers, or regulatory authorities."
+            },
+            {
+              "type": "paragraph",
+              "text": "These Terms do not impose mandatory arbitration."
+            }
+          ]
+        },
+        {
+          "id": "28-privacy",
+          "title": "28. Privacy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Personal information is handled according to our Privacy Policy and applicable law."
+            }
+          ]
+        },
+        {
+          "id": "29-changes-to-these-terms",
+          "title": "29. Changes to These Terms",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may update these Terms to reflect operational or legal changes."
+            },
+            {
+              "type": "paragraph",
+              "text": "Changes will not retroactively remove rights associated with completed purchases where prohibited by law."
+            }
+          ]
+        },
+        {
+          "id": "30-contact-information",
+          "title": "30. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Operated by D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "Welcome to Rootedrealm.",
+        "These Terms of Service govern the use of our online store and purchases made through our website.",
+        "Rootedrealm is operated by D & V Enterprises, Inc.",
+        "By accessing or using our website, you agree to these Terms to the extent permitted by applicable law.",
+        "1. Business Information",
+        "Store Name: Rootedrealm",
+        "Legal Business Name: D & V Enterprises, Inc.",
+        "Business Address:",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "2. Eligibility",
+        "Customers must have the legal capacity to enter into a purchase agreement.",
+        "3. Website Use",
+        "Users must not:",
+        "* Submit fraudulent orders",
+        "* Use unauthorized payment information",
+        "* Attempt unauthorized website access",
+        "* Introduce malware",
+        "* Interfere with website functionality",
+        "* Violate applicable laws",
+        "4. Product Information",
+        "We aim to provide accurate product descriptions, specifications, images, and pricing.",
+        "Product information may occasionally contain errors or require updates.",
+        "Customers should review individual listings before purchasing.",
+        "5. Product Availability",
+        "Products are subject to availability.",
+        "Adding an item to a cart does not guarantee inventory reservation.",
+        "If a product becomes unavailable after purchase, we will communicate the available options.",
+        "6. Pricing",
+        "Prices are displayed during shopping and checkout.",
+        "Applicable taxes are calculated or displayed where required.",
+        "Prices may change without advance notice.",
+        "7. Order Placement",
+        "Submitting an order constitutes a request to purchase the selected products.",
+        "Orders may be subject to payment verification and inventory confirmation.",
+        "An automated order acknowledgment does not necessarily establish final acceptance for fulfillment.",
+        "8. Payments",
+        "Available payment methods are displayed at checkout.",
+        "Customers must use payment methods they are authorized to use.",
+        "9. Shipping",
+        "Rootedrealm offers free standard shipping throughout the United States.",
+        "Our standard estimated delivery times are:",
+        "* Processing: 1\u20132 business days",
+        "* Transit: 3\u20137 business days",
+        "* Total delivery: 4\u20139 business days",
+        "Delivery estimates are not guaranteed arrival dates.",
+        "10. Shipping Information",
+        "Customers must provide complete and accurate shipping information.",
+        "Address changes may not be possible after dispatch.",
+        "11. Order Cancellations",
+        "Customers may request cancellation before shipment.",
+        "Cancellation availability depends on the fulfillment status.",
+        "12. Returns and Refunds",
+        "Our standard return policy includes:",
+        "* 30-day return window",
+        "* Eligible defective and non-defective returns",
+        "* New-condition requirements for standard non-defective returns",
+        "* Returns by mail",
+        "* Free return shipping",
+        "* No restocking fees",
+        "* Refund processing period of 10 days",
+        "Direct exchanges are not accepted.",
+        "Please review our complete Returns & Refunds Policy.",
+        "13. Product Warranties",
+        "Warranty coverage depends on the product, manufacturer, and applicable warranty terms.",
+        "Nothing in these Terms removes mandatory consumer rights.",
+        "14. Product Compatibility",
+        "Customers should review specifications, dimensions, compatibility, and installation requirements before purchasing technical products.",
+        "15. Product Safety",
+        "Products such as chainsaws, power equipment, fireplaces, wood stoves, electrical devices, and batteries may require specific safety precautions.",
+        "Customers should follow manufacturer instructions and applicable regulations.",
+        "16. Installation",
+        "Installation, assembly, and removal services are not included unless expressly stated in the product listing or purchase agreement.",
+        "17. Promotional Offers",
+        "Promotions may be subject to specific eligibility requirements, limitations, and expiration dates.",
+        "18. Customer Accounts",
+        "Where customer accounts are available, users are responsible for protecting their account credentials.",
+        "19. Intellectual Property",
+        "Original website content, graphics, branding, and other protected materials may belong to Rootedrealm or relevant rights holders.",
+        "Unauthorized reproduction may violate applicable law.",
+        "20. Third-Party Trademarks",
+        "Manufacturer names and trademarks remain the property of their respective owners.",
+        "Their appearance on our website does not independently establish endorsement or affiliation.",
+        "21. Customer Reviews",
+        "Where customer reviews are enabled, submitted content must comply with applicable law.",
+        "Nothing in these Terms is intended to restrict lawful consumer reviews.",
+        "22. Third-Party Services",
+        "Payment, shipping, and other website services may be provided by independent third parties.",
+        "Their services may be governed by separate terms.",
+        "23. Website Availability",
+        "We aim to maintain reliable website functionality but cannot guarantee uninterrupted access.",
+        "24. Limitation of Liability",
+        "To the extent permitted by applicable law, certain liability may be limited for circumstances outside our reasonable control.",
+        "Nothing in these Terms excludes liability or rights that cannot legally be limited.",
+        "25. Consumer Rights",
+        "Mandatory consumer protection requirements take precedence over conflicting provisions of these Terms.",
+        "26. Governing Law",
+        "These Terms are generally governed by applicable laws of the United States and the State of Florida, subject to mandatory consumer protection and jurisdictional requirements.",
+        "27. Dispute Resolution",
+        "Customers are encouraged to contact our support team to seek a resolution.",
+        "Nothing in these Terms prevents customers from exercising lawful rights through courts, payment providers, or regulatory authorities.",
+        "These Terms do not impose mandatory arbitration.",
+        "28. Privacy",
+        "Personal information is handled according to our Privacy Policy and applicable law.",
+        "29. Changes to These Terms",
+        "We may update these Terms to reflect operational or legal changes.",
+        "Changes will not retroactively remove rights associated with completed purchases where prohibited by law.",
+        "30. Contact Information",
+        "Rootedrealm",
+        "Operated by D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "cookie-policy",
+      "title": "Cookie Policy",
+      "effectiveDate": "",
+      "tagline": "Necessary cookies may support:",
+      "intro": [
+        "This Cookie Policy explains how Rootedrealm, operated by D & V Enterprises, Inc., may use cookies and similar technologies when visitors access our online store."
+      ],
+      "description": "This Cookie Policy explains how Rootedrealm, operated by D & V Enterprises, Inc., may use cookies and similar technologies when visitors access our online store.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "This Cookie Policy explains how Rootedrealm, operated by D & V Enterprises, Inc., may use cookies and similar technologies when visitors access our online store."
+            }
+          ]
+        },
+        {
+          "id": "1-what-are-cookies",
+          "title": "1. What Are Cookies?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Cookies are small files that websites may store on a visitor's device."
+            },
+            {
+              "type": "paragraph",
+              "text": "They can help maintain shopping sessions, remember preferences, support security, and improve website functionality."
+            }
+          ]
+        },
+        {
+          "id": "2-strictly-necessary-cookies",
+          "title": "2. Strictly Necessary Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Necessary cookies may support:"
+            },
+            {
+              "type": "bullet",
+              "text": "Shopping carts"
+            },
+            {
+              "type": "bullet",
+              "text": "Checkout sessions"
+            },
+            {
+              "type": "bullet",
+              "text": "Customer authentication"
+            },
+            {
+              "type": "bullet",
+              "text": "Website security"
+            },
+            {
+              "type": "bullet",
+              "text": "Fraud prevention"
+            },
+            {
+              "type": "bullet",
+              "text": "Essential navigation"
+            },
+            {
+              "type": "paragraph",
+              "text": "Disabling necessary cookies may prevent certain website features from working correctly."
+            }
+          ]
+        },
+        {
+          "id": "3-functional-cookies",
+          "title": "3. Functional Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Functional cookies may remember preferences such as selected website settings."
+            }
+          ]
+        },
+        {
+          "id": "4-analytics-cookies",
+          "title": "4. Analytics Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If enabled, analytics technologies may help us understand:"
+            },
+            {
+              "type": "bullet",
+              "text": "Website traffic"
+            },
+            {
+              "type": "bullet",
+              "text": "Page visits"
+            },
+            {
+              "type": "bullet",
+              "text": "Navigation behavior"
+            },
+            {
+              "type": "bullet",
+              "text": "Device categories"
+            },
+            {
+              "type": "bullet",
+              "text": "Technical performance"
+            },
+            {
+              "type": "bullet",
+              "text": "Website interactions"
+            }
+          ]
+        },
+        {
+          "id": "5-advertising-cookies",
+          "title": "5. Advertising Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where enabled, advertising technologies may support:"
+            },
+            {
+              "type": "bullet",
+              "text": "Advertising measurement"
+            },
+            {
+              "type": "bullet",
+              "text": "Conversion tracking"
+            },
+            {
+              "type": "bullet",
+              "text": "Campaign analysis"
+            },
+            {
+              "type": "bullet",
+              "text": "Relevant advertising"
+            },
+            {
+              "type": "bullet",
+              "text": "Audience reporting"
+            },
+            {
+              "type": "paragraph",
+              "text": "These technologies may involve independent providers."
+            }
+          ]
+        },
+        {
+          "id": "6-first-party-cookies",
+          "title": "6. First-Party Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "First-party cookies are associated with the website being visited."
+            },
+            {
+              "type": "paragraph",
+              "text": "They may support website functionality and preferences."
+            }
+          ]
+        },
+        {
+          "id": "7-third-party-cookies",
+          "title": "7. Third-Party Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Third-party technologies may be associated with payment services, analytics tools, advertising platforms, and other integrations."
+            }
+          ]
+        },
+        {
+          "id": "8-session-cookies",
+          "title": "8. Session Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Session cookies generally expire when the browsing session ends."
+            }
+          ]
+        },
+        {
+          "id": "9-persistent-cookies",
+          "title": "9. Persistent Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Persistent cookies may remain for a defined period to remember preferences or support other functions."
+            }
+          ]
+        },
+        {
+          "id": "10-similar-technologies",
+          "title": "10. Similar Technologies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website may also use local storage, session storage, tags, pixels, and related technologies."
+            },
+            {
+              "type": "paragraph",
+              "text": "Actual technologies depend on the website configuration."
+            }
+          ]
+        },
+        {
+          "id": "11-cookie-preferences",
+          "title": "11. Cookie Preferences",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where available, website controls may allow visitors to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Accept optional cookies"
+            },
+            {
+              "type": "bullet",
+              "text": "Reject nonessential cookies"
+            },
+            {
+              "type": "bullet",
+              "text": "Adjust preferences"
+            },
+            {
+              "type": "bullet",
+              "text": "Withdraw applicable consent"
+            }
+          ]
+        },
+        {
+          "id": "12-browser-settings",
+          "title": "12. Browser Settings",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Most browsers allow users to block or delete cookies."
+            },
+            {
+              "type": "paragraph",
+              "text": "Disabling essential cookies may affect shopping cart and checkout functionality."
+            }
+          ]
+        },
+        {
+          "id": "13-consent",
+          "title": "13. Consent",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where legally required, nonessential tracking technologies should be activated only after valid consent is obtained."
+            }
+          ]
+        },
+        {
+          "id": "14-global-privacy-control",
+          "title": "14. Global Privacy Control",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where applicable law requires it, qualifying Global Privacy Control signals must be honored."
+            }
+          ]
+        },
+        {
+          "id": "15-cookie-retention",
+          "title": "15. Cookie Retention",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Cookie expiration periods depend on their purpose and provider."
+            },
+            {
+              "type": "paragraph",
+              "text": "Actual cookie names and retention periods should be documented based on the technologies installed on the live website."
+            }
+          ]
+        },
+        {
+          "id": "16-third-party-privacy-practices",
+          "title": "16. Third-Party Privacy Practices",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Independent providers may process information according to their own privacy policies."
+            }
+          ]
+        },
+        {
+          "id": "17-policy-changes",
+          "title": "17. Policy Changes",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may update this policy when website technologies or applicable requirements change."
+            }
+          ]
+        },
+        {
+          "id": "18-contact-information",
+          "title": "18. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "This Cookie Policy explains how Rootedrealm, operated by D & V Enterprises, Inc., may use cookies and similar technologies when visitors access our online store.",
+        "1. What Are Cookies?",
+        "Cookies are small files that websites may store on a visitor's device.",
+        "They can help maintain shopping sessions, remember preferences, support security, and improve website functionality.",
+        "2. Strictly Necessary Cookies",
+        "Necessary cookies may support:",
+        "* Shopping carts",
+        "* Checkout sessions",
+        "* Customer authentication",
+        "* Website security",
+        "* Fraud prevention",
+        "* Essential navigation",
+        "Disabling necessary cookies may prevent certain website features from working correctly.",
+        "3. Functional Cookies",
+        "Functional cookies may remember preferences such as selected website settings.",
+        "4. Analytics Cookies",
+        "If enabled, analytics technologies may help us understand:",
+        "* Website traffic",
+        "* Page visits",
+        "* Navigation behavior",
+        "* Device categories",
+        "* Technical performance",
+        "* Website interactions",
+        "5. Advertising Cookies",
+        "Where enabled, advertising technologies may support:",
+        "* Advertising measurement",
+        "* Conversion tracking",
+        "* Campaign analysis",
+        "* Relevant advertising",
+        "* Audience reporting",
+        "These technologies may involve independent providers.",
+        "6. First-Party Cookies",
+        "First-party cookies are associated with the website being visited.",
+        "They may support website functionality and preferences.",
+        "7. Third-Party Cookies",
+        "Third-party technologies may be associated with payment services, analytics tools, advertising platforms, and other integrations.",
+        "8. Session Cookies",
+        "Session cookies generally expire when the browsing session ends.",
+        "9. Persistent Cookies",
+        "Persistent cookies may remain for a defined period to remember preferences or support other functions.",
+        "10. Similar Technologies",
+        "Our website may also use local storage, session storage, tags, pixels, and related technologies.",
+        "Actual technologies depend on the website configuration.",
+        "11. Cookie Preferences",
+        "Where available, website controls may allow visitors to:",
+        "* Accept optional cookies",
+        "* Reject nonessential cookies",
+        "* Adjust preferences",
+        "* Withdraw applicable consent",
+        "12. Browser Settings",
+        "Most browsers allow users to block or delete cookies.",
+        "Disabling essential cookies may affect shopping cart and checkout functionality.",
+        "13. Consent",
+        "Where legally required, nonessential tracking technologies should be activated only after valid consent is obtained.",
+        "14. Global Privacy Control",
+        "Where applicable law requires it, qualifying Global Privacy Control signals must be honored.",
+        "15. Cookie Retention",
+        "Cookie expiration periods depend on their purpose and provider.",
+        "Actual cookie names and retention periods should be documented based on the technologies installed on the live website.",
+        "16. Third-Party Privacy Practices",
+        "Independent providers may process information according to their own privacy policies.",
+        "17. Policy Changes",
+        "We may update this policy when website technologies or applicable requirements change.",
+        "18. Contact Information",
+        "Rootedrealm",
+        "D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "legal-notice",
+      "title": "Legal Notice",
+      "effectiveDate": "",
+      "tagline": "Business Name: Rootedrealm",
+      "intro": [
+        "This Legal Notice provides information about the operation and use of the Rootedrealm website."
+      ],
+      "description": "This Legal Notice provides information about the operation and use of the Rootedrealm website.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "This Legal Notice provides information about the operation and use of the Rootedrealm website."
+            }
+          ]
+        },
+        {
+          "id": "1-business-identification",
+          "title": "1. Business Identification",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Business Name: Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Legal Business Name: D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "business-address",
+          "title": "Business Address:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "3920 Gunn Hwy"
+            }
+          ]
+        },
+        {
+          "id": "tampa-fl-33618",
+          "title": "Tampa, FL 33618",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "United States"
+            }
+          ]
+        },
+        {
+          "id": "phone-1-813-963-6899",
+          "title": "Phone: +1 (813) 963-6899",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Business Days: Monday\u2013Friday"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: 9:00 AM\u20135:00 PM",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "2. Website Operation"
+            },
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm operates a multi-category online retail store serving customers throughout the United States."
+            },
+            {
+              "type": "paragraph",
+              "text": "Our website provides product information, online purchasing functionality, and customer support resources."
+            }
+          ]
+        },
+        {
+          "id": "3-product-categories",
+          "title": "3. Product Categories",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our store offers products across categories including:"
+            },
+            {
+              "type": "bullet",
+              "text": "Electronics and gaming"
+            },
+            {
+              "type": "bullet",
+              "text": "Computer equipment and accessories"
+            },
+            {
+              "type": "bullet",
+              "text": "3D printers and scanners"
+            },
+            {
+              "type": "bullet",
+              "text": "Lawn and garden"
+            },
+            {
+              "type": "bullet",
+              "text": "Outdoor power equipment"
+            },
+            {
+              "type": "bullet",
+              "text": "Fireplaces and wood stoves"
+            },
+            {
+              "type": "bullet",
+              "text": "Saunas"
+            },
+            {
+              "type": "bullet",
+              "text": "Home improvement"
+            },
+            {
+              "type": "paragraph",
+              "text": "Product availability may change."
+            }
+          ]
+        },
+        {
+          "id": "4-intellectual-property",
+          "title": "4. Intellectual Property",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Original website content, graphics, branding, and other protected materials may be owned by Rootedrealm or relevant rights holders."
+            },
+            {
+              "type": "paragraph",
+              "text": "Unauthorized use may violate applicable intellectual property laws."
+            }
+          ]
+        },
+        {
+          "id": "5-third-party-trademarks",
+          "title": "5. Third-Party Trademarks",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Manufacturer names, product names, logos, and trademarks remain the property of their respective owners."
+            },
+            {
+              "type": "paragraph",
+              "text": "Their appearance on our website does not independently establish affiliation or endorsement."
+            }
+          ]
+        },
+        {
+          "id": "6-product-information",
+          "title": "6. Product Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to provide accurate product descriptions, specifications, images, and pricing."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should review individual product listings before purchase."
+            }
+          ]
+        },
+        {
+          "id": "7-pricing-and-payment",
+          "title": "7. Pricing and Payment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Prices and available payment methods are displayed during shopping and checkout."
+            },
+            {
+              "type": "paragraph",
+              "text": "Applicable taxes are disclosed where required."
+            }
+          ]
+        },
+        {
+          "id": "8-shipping",
+          "title": "8. Shipping",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm offers free standard shipping throughout the United States."
+            },
+            {
+              "type": "paragraph",
+              "text": "Our published estimated total delivery time is 4\u20139 business days."
+            }
+          ]
+        },
+        {
+          "id": "9-returns-and-refunds",
+          "title": "9. Returns and Refunds",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible defective and non-defective returns are accepted within 30 days."
+            },
+            {
+              "type": "paragraph",
+              "text": "Direct exchanges are not accepted."
+            },
+            {
+              "type": "paragraph",
+              "text": "Our published refund processing period is 10 days."
+            }
+          ]
+        },
+        {
+          "id": "10-privacy",
+          "title": "10. Privacy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Personal information is handled according to our Privacy Policy and applicable law."
+            }
+          ]
+        },
+        {
+          "id": "11-cookies",
+          "title": "11. Cookies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website may use cookies and similar technologies."
+            },
+            {
+              "type": "paragraph",
+              "text": "Additional information is provided in our Cookie Policy."
+            }
+          ]
+        },
+        {
+          "id": "12-accessibility",
+          "title": "12. Accessibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to improve the accessibility and usability of our website."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers may contact us to report accessibility barriers."
+            }
+          ]
+        },
+        {
+          "id": "13-external-links",
+          "title": "13. External Links",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website may contain links to independent third-party services."
+            },
+            {
+              "type": "paragraph",
+              "text": "We are not responsible for websites we do not operate."
+            }
+          ]
+        },
+        {
+          "id": "14-consumer-rights",
+          "title": "14. Consumer Rights",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Nothing in this notice removes mandatory consumer rights or remedies."
+            }
+          ]
+        },
+        {
+          "id": "15-business-address-and-returns",
+          "title": "15. Business Address and Returns",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our published business address is provided for business identification and correspondence."
+            },
+            {
+              "type": "paragraph",
+              "text": "Customers should obtain authorized return instructions before shipping merchandise."
+            }
+          ]
+        },
+        {
+          "id": "16-applicable-law",
+          "title": "16. Applicable Law",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Applicable US federal and Florida state laws govern relevant business activities, subject to mandatory consumer protection requirements."
+            }
+          ]
+        },
+        {
+          "id": "17-changes-to-this-notice",
+          "title": "17. Changes to This Notice",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may update this notice to reflect operational or legal changes."
+            }
+          ]
+        },
+        {
+          "id": "18-contact-information",
+          "title": "18. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Operated by D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "This Legal Notice provides information about the operation and use of the Rootedrealm website.",
+        "1. Business Identification",
+        "Business Name: Rootedrealm",
+        "Legal Business Name: D & V Enterprises, Inc.",
+        "Business Address:",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Business Days: Monday\u2013Friday",
+        "Customer Service Hours: 9:00 AM\u20135:00 PM",
+        "2. Website Operation",
+        "Rootedrealm operates a multi-category online retail store serving customers throughout the United States.",
+        "Our website provides product information, online purchasing functionality, and customer support resources.",
+        "3. Product Categories",
+        "Our store offers products across categories including:",
+        "* Electronics and gaming",
+        "* Computer equipment and accessories",
+        "* 3D printers and scanners",
+        "* Lawn and garden",
+        "* Outdoor power equipment",
+        "* Fireplaces and wood stoves",
+        "* Saunas",
+        "* Home improvement",
+        "Product availability may change.",
+        "4. Intellectual Property",
+        "Original website content, graphics, branding, and other protected materials may be owned by Rootedrealm or relevant rights holders.",
+        "Unauthorized use may violate applicable intellectual property laws.",
+        "5. Third-Party Trademarks",
+        "Manufacturer names, product names, logos, and trademarks remain the property of their respective owners.",
+        "Their appearance on our website does not independently establish affiliation or endorsement.",
+        "6. Product Information",
+        "We aim to provide accurate product descriptions, specifications, images, and pricing.",
+        "Customers should review individual product listings before purchase.",
+        "7. Pricing and Payment",
+        "Prices and available payment methods are displayed during shopping and checkout.",
+        "Applicable taxes are disclosed where required.",
+        "8. Shipping",
+        "Rootedrealm offers free standard shipping throughout the United States.",
+        "Our published estimated total delivery time is 4\u20139 business days.",
+        "9. Returns and Refunds",
+        "Eligible defective and non-defective returns are accepted within 30 days.",
+        "Direct exchanges are not accepted.",
+        "Our published refund processing period is 10 days.",
+        "10. Privacy",
+        "Personal information is handled according to our Privacy Policy and applicable law.",
+        "11. Cookies",
+        "Our website may use cookies and similar technologies.",
+        "Additional information is provided in our Cookie Policy.",
+        "12. Accessibility",
+        "We aim to improve the accessibility and usability of our website.",
+        "Customers may contact us to report accessibility barriers.",
+        "13. External Links",
+        "Our website may contain links to independent third-party services.",
+        "We are not responsible for websites we do not operate.",
+        "14. Consumer Rights",
+        "Nothing in this notice removes mandatory consumer rights or remedies.",
+        "15. Business Address and Returns",
+        "Our published business address is provided for business identification and correspondence.",
+        "Customers should obtain authorized return instructions before shipping merchandise.",
+        "16. Applicable Law",
+        "Applicable US federal and Florida state laws govern relevant business activities, subject to mandatory consumer protection requirements.",
+        "17. Changes to This Notice",
+        "We may update this notice to reflect operational or legal changes.",
+        "18. Contact Information",
+        "Rootedrealm",
+        "Operated by D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "accessibility-statement",
+      "title": "Accessibility Statement",
+      "effectiveDate": "",
+      "tagline": "Our accessibility objectives include making it easier for customers to:",
+      "intro": [
+        "At Rootedrealm, operated by D & V Enterprises, Inc., we believe online shopping should be accessible and convenient for customers with different abilities and needs."
+      ],
+      "description": "At Rootedrealm, operated by D & V Enterprises, Inc., we believe online shopping should be accessible and convenient for customers with different abilities and needs.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "At Rootedrealm, operated by D & V Enterprises, Inc., we believe online shopping should be accessible and convenient for customers with different abilities and needs."
+            },
+            {
+              "type": "paragraph",
+              "text": "We aim to improve the accessibility and usability of our website."
+            }
+          ]
+        },
+        {
+          "id": "1-our-accessibility-commitment",
+          "title": "1. Our Accessibility Commitment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our accessibility objectives include making it easier for customers to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Browse products"
+            },
+            {
+              "type": "bullet",
+              "text": "Navigate categories"
+            },
+            {
+              "type": "bullet",
+              "text": "Search for products"
+            },
+            {
+              "type": "bullet",
+              "text": "Review product information"
+            },
+            {
+              "type": "bullet",
+              "text": "Manage shopping carts"
+            },
+            {
+              "type": "bullet",
+              "text": "Complete checkout"
+            },
+            {
+              "type": "bullet",
+              "text": "Access customer support"
+            },
+            {
+              "type": "bullet",
+              "text": "Read website policies"
+            }
+          ]
+        },
+        {
+          "id": "2-accessibility-guidelines",
+          "title": "2. Accessibility Guidelines",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We use the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA as a reference goal for accessibility improvements."
+            },
+            {
+              "type": "paragraph",
+              "text": "This statement does not represent a verified certification or claim that every page currently conforms to WCAG 2.2 AA."
+            }
+          ]
+        },
+        {
+          "id": "3-clear-navigation",
+          "title": "3. Clear Navigation",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to provide:"
+            },
+            {
+              "type": "bullet",
+              "text": "Consistent navigation"
+            },
+            {
+              "type": "bullet",
+              "text": "Descriptive links"
+            },
+            {
+              "type": "bullet",
+              "text": "Logical headings"
+            },
+            {
+              "type": "bullet",
+              "text": "Understandable instructions"
+            },
+            {
+              "type": "bullet",
+              "text": "Clear page structures"
+            }
+          ]
+        },
+        {
+          "id": "4-keyboard-accessibility",
+          "title": "4. Keyboard Accessibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to support keyboard access to essential website functionality, including forms, navigation, shopping carts, and checkout."
+            }
+          ]
+        },
+        {
+          "id": "5-screen-reader-support",
+          "title": "5. Screen Reader Support",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to improve compatibility with commonly used screen readers and assistive technologies."
+            }
+          ]
+        },
+        {
+          "id": "6-readable-content",
+          "title": "6. Readable Content",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our objectives include:"
+            },
+            {
+              "type": "bullet",
+              "text": "Readable typography"
+            },
+            {
+              "type": "bullet",
+              "text": "Clear content organization"
+            },
+            {
+              "type": "bullet",
+              "text": "Appropriate contrast"
+            },
+            {
+              "type": "bullet",
+              "text": "Logical heading structures"
+            },
+            {
+              "type": "bullet",
+              "text": "Understandable labels"
+            }
+          ]
+        },
+        {
+          "id": "7-image-accessibility",
+          "title": "7. Image Accessibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to provide useful alternative text for informative images."
+            },
+            {
+              "type": "paragraph",
+              "text": "Decorative images may be marked appropriately."
+            }
+          ]
+        },
+        {
+          "id": "8-forms-and-checkout",
+          "title": "8. Forms and Checkout",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We recognize the importance of accessible forms and payment interfaces."
+            },
+            {
+              "type": "paragraph",
+              "text": "We aim to improve field labels, error messages, navigation, and interactive controls."
+            }
+          ]
+        },
+        {
+          "id": "9-mobile-accessibility",
+          "title": "9. Mobile Accessibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We aim to provide usable layouts on mobile phones and tablets."
+            }
+          ]
+        },
+        {
+          "id": "10-third-party-components",
+          "title": "10. Third-Party Components",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Our website may rely on third-party tools for payment processing, customer support, or other functionality."
+            },
+            {
+              "type": "paragraph",
+              "text": "Some third-party components may have accessibility limitations outside our direct control."
+            }
+          ]
+        },
+        {
+          "id": "11-reporting-accessibility-issues",
+          "title": "11. Reporting Accessibility Issues",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If you encounter an accessibility barrier, please contact customer service."
+            },
+            {
+              "type": "paragraph",
+              "text": "Include the page URL and a description of the issue."
+            },
+            {
+              "type": "paragraph",
+              "text": "Information about your browser or assistive technology may help us investigate."
+            }
+          ]
+        },
+        {
+          "id": "12-alternative-assistance",
+          "title": "12. Alternative Assistance",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where an accessibility issue prevents completion of an essential shopping task, our support team can review available assistance options."
+            }
+          ]
+        },
+        {
+          "id": "13-continuous-improvement",
+          "title": "13. Continuous Improvement",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We welcome accessibility feedback and aim to improve the website experience over time."
+            }
+          ]
+        },
+        {
+          "id": "14-contact-information",
+          "title": "14. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "At Rootedrealm, operated by D & V Enterprises, Inc., we believe online shopping should be accessible and convenient for customers with different abilities and needs.",
+        "We aim to improve the accessibility and usability of our website.",
+        "1. Our Accessibility Commitment",
+        "Our accessibility objectives include making it easier for customers to:",
+        "* Browse products",
+        "* Navigate categories",
+        "* Search for products",
+        "* Review product information",
+        "* Manage shopping carts",
+        "* Complete checkout",
+        "* Access customer support",
+        "* Read website policies",
+        "2. Accessibility Guidelines",
+        "We use the Web Content Accessibility Guidelines (WCAG) 2.2 Level AA as a reference goal for accessibility improvements.",
+        "This statement does not represent a verified certification or claim that every page currently conforms to WCAG 2.2 AA.",
+        "3. Clear Navigation",
+        "We aim to provide:",
+        "* Consistent navigation",
+        "* Descriptive links",
+        "* Logical headings",
+        "* Understandable instructions",
+        "* Clear page structures",
+        "4. Keyboard Accessibility",
+        "We aim to support keyboard access to essential website functionality, including forms, navigation, shopping carts, and checkout.",
+        "5. Screen Reader Support",
+        "We aim to improve compatibility with commonly used screen readers and assistive technologies.",
+        "6. Readable Content",
+        "Our objectives include:",
+        "* Readable typography",
+        "* Clear content organization",
+        "* Appropriate contrast",
+        "* Logical heading structures",
+        "* Understandable labels",
+        "7. Image Accessibility",
+        "We aim to provide useful alternative text for informative images.",
+        "Decorative images may be marked appropriately.",
+        "8. Forms and Checkout",
+        "We recognize the importance of accessible forms and payment interfaces.",
+        "We aim to improve field labels, error messages, navigation, and interactive controls.",
+        "9. Mobile Accessibility",
+        "We aim to provide usable layouts on mobile phones and tablets.",
+        "10. Third-Party Components",
+        "Our website may rely on third-party tools for payment processing, customer support, or other functionality.",
+        "Some third-party components may have accessibility limitations outside our direct control.",
+        "11. Reporting Accessibility Issues",
+        "If you encounter an accessibility barrier, please contact customer service.",
+        "Include the page URL and a description of the issue.",
+        "Information about your browser or assistive technology may help us investigate.",
+        "12. Alternative Assistance",
+        "Where an accessibility issue prevents completion of an essential shopping task, our support team can review available assistance options.",
+        "13. Continuous Improvement",
+        "We welcome accessibility feedback and aim to improve the website experience over time.",
+        "14. Contact Information",
+        "Rootedrealm",
+        "D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    },
+    {
+      "slug": "your-privacy-choices",
+      "title": "Your Privacy Choices",
+      "effectiveDate": "",
+      "tagline": "Depending on your location and applicable law, you may have rights to:",
+      "intro": [
+        "At Rootedrealm, we recognize the importance of giving customers clear information about their privacy choices."
+      ],
+      "description": "At Rootedrealm, we recognize the importance of giving customers clear information about their privacy choices.",
+      "sections": [
+        {
+          "id": "overview",
+          "title": "",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Last Updated: November 17, 2026"
+            },
+            {
+              "type": "paragraph",
+              "text": "At Rootedrealm, we recognize the importance of giving customers clear information about their privacy choices."
+            },
+            {
+              "type": "paragraph",
+              "text": "This page explains rights and options that may be available under applicable privacy laws."
+            }
+          ]
+        },
+        {
+          "id": "1-understanding-your-privacy-rights",
+          "title": "1. Understanding Your Privacy Rights",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Depending on your location and applicable law, you may have rights to:"
+            },
+            {
+              "type": "bullet",
+              "text": "Access personal information"
+            },
+            {
+              "type": "bullet",
+              "text": "Correct inaccurate information"
+            },
+            {
+              "type": "bullet",
+              "text": "Request deletion"
+            },
+            {
+              "type": "bullet",
+              "text": "Obtain a copy of certain information"
+            },
+            {
+              "type": "bullet",
+              "text": "Opt out of specified sales or sharing"
+            },
+            {
+              "type": "bullet",
+              "text": "Opt out of targeted advertising"
+            },
+            {
+              "type": "bullet",
+              "text": "Manage marketing preferences"
+            },
+            {
+              "type": "bullet",
+              "text": "Withdraw consent where applicable"
+            },
+            {
+              "type": "bullet",
+              "text": "Appeal certain privacy decisions"
+            },
+            {
+              "type": "paragraph",
+              "text": "Not all rights apply to every person or business."
+            }
+          ]
+        },
+        {
+          "id": "2-access-your-information",
+          "title": "2. Access Your Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible customers may request access to certain personal information maintained by Rootedrealm."
+            },
+            {
+              "type": "paragraph",
+              "text": "This may include contact information, order records, and other eligible data."
+            }
+          ]
+        },
+        {
+          "id": "3-correct-your-information",
+          "title": "3. Correct Your Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If personal information is inaccurate, customers may request correction."
+            },
+            {
+              "type": "paragraph",
+              "text": "We may require reasonable verification."
+            }
+          ]
+        },
+        {
+          "id": "4-request-deletion",
+          "title": "4. Request Deletion",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible customers may request deletion of personal information."
+            }
+          ]
+        },
+        {
+          "id": "certain-information-may-need-to-be-retained-for-legally-permitted-purposes-including",
+          "title": "Certain information may need to be retained for legally permitted purposes, including:",
+          "blocks": [
+            {
+              "type": "bullet",
+              "text": "Transaction records"
+            },
+            {
+              "type": "bullet",
+              "text": "Accounting"
+            },
+            {
+              "type": "bullet",
+              "text": "Tax obligations"
+            },
+            {
+              "type": "bullet",
+              "text": "Security"
+            },
+            {
+              "type": "bullet",
+              "text": "Fraud prevention"
+            },
+            {
+              "type": "bullet",
+              "text": "Dispute resolution"
+            },
+            {
+              "type": "bullet",
+              "text": "Legal compliance"
+            }
+          ]
+        },
+        {
+          "id": "5-request-a-copy-of-your-data",
+          "title": "5. Request a Copy of Your Data",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where applicable, customers may request a portable copy of certain information."
+            },
+            {
+              "type": "paragraph",
+              "text": "The available scope and format depend on legal requirements."
+            }
+          ]
+        },
+        {
+          "id": "6-opt-out-of-sale-or-sharing",
+          "title": "6. Opt Out of Sale or Sharing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Certain privacy laws provide eligible customers with rights to opt out of specified sales or sharing of personal information."
+            },
+            {
+              "type": "paragraph",
+              "text": "If Rootedrealm engages in covered activities, appropriate opt-out mechanisms must be provided where required."
+            }
+          ]
+        },
+        {
+          "id": "7-targeted-advertising",
+          "title": "7. Targeted Advertising",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where applicable, eligible customers may opt out of processing personal information for targeted advertising."
+            }
+          ]
+        },
+        {
+          "id": "8-cookie-preferences",
+          "title": "8. Cookie Preferences",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Visitors may use available website preference controls or browser settings to manage optional tracking technologies."
+            }
+          ]
+        },
+        {
+          "id": "9-global-privacy-control",
+          "title": "9. Global Privacy Control",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Global Privacy Control (GPC) is a browser-based privacy preference signal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Where required by applicable law, qualifying signals must be honored through the website's actual privacy controls."
+            }
+          ]
+        },
+        {
+          "id": "10-marketing-preferences",
+          "title": "10. Marketing Preferences",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "If promotional emails are sent, recipients may unsubscribe using the mechanism provided."
+            },
+            {
+              "type": "paragraph",
+              "text": "Necessary transactional communications may continue."
+            }
+          ]
+        },
+        {
+          "id": "11-us-state-privacy-rights",
+          "title": "11. US State Privacy Rights",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Residents of certain US states may have additional privacy rights."
+            },
+            {
+              "type": "paragraph",
+              "text": "These rights vary according to jurisdiction and business applicability."
+            }
+          ]
+        },
+        {
+          "id": "12-non-discrimination",
+          "title": "12. Non-Discrimination",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where prohibited by law, we will not unlawfully discriminate against customers for exercising applicable privacy rights."
+            }
+          ]
+        },
+        {
+          "id": "13-authorized-agents",
+          "title": "13. Authorized Agents",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where permitted, authorized agents may submit certain requests on behalf of eligible consumers."
+            },
+            {
+              "type": "paragraph",
+              "text": "Appropriate verification or authorization may be required."
+            }
+          ]
+        },
+        {
+          "id": "14-identity-verification",
+          "title": "14. Identity Verification",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We may verify a requester's identity before disclosing, correcting, or deleting personal information."
+            },
+            {
+              "type": "paragraph",
+              "text": "Please do not provide passwords or complete payment card details."
+            }
+          ]
+        },
+        {
+          "id": "15-how-to-submit-a-request",
+          "title": "15. How to Submit a Request",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Step 1: Contact Rootedrealm customer service using our website contact form or confirmed support email."
+            }
+          ]
+        },
+        {
+          "id": "step-2-identify-your-request-as-a-privacy-rights-request",
+          "title": "Step 2: Identify your request as a \"Privacy Rights Request.\"",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Step 3: Describe the right you wish to exercise."
+            },
+            {
+              "type": "paragraph",
+              "text": "Step 4: Provide sufficient information to identify the relevant records."
+            },
+            {
+              "type": "paragraph",
+              "text": "Step 5: Complete any necessary verification."
+            }
+          ]
+        },
+        {
+          "id": "16-privacy-request-types",
+          "title": "16. Privacy Request Types",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers may request:"
+            },
+            {
+              "type": "bullet",
+              "text": "Access My Information"
+            },
+            {
+              "type": "bullet",
+              "text": "Correct My Information"
+            },
+            {
+              "type": "bullet",
+              "text": "Delete My Information"
+            },
+            {
+              "type": "bullet",
+              "text": "Request a Copy of My Data"
+            },
+            {
+              "type": "bullet",
+              "text": "Opt Out of Sale or Sharing"
+            },
+            {
+              "type": "bullet",
+              "text": "Opt Out of Targeted Advertising"
+            },
+            {
+              "type": "bullet",
+              "text": "Update Marketing Preferences"
+            },
+            {
+              "type": "bullet",
+              "text": "Appeal a Privacy Decision"
+            },
+            {
+              "type": "bullet",
+              "text": "Other Privacy Inquiry"
+            }
+          ]
+        },
+        {
+          "id": "17-response-timeframes",
+          "title": "17. Response Timeframes",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "We will review applicable privacy requests within the timeframes required by relevant law."
+            },
+            {
+              "type": "paragraph",
+              "text": "Permitted extensions and verification requirements may affect response timing."
+            }
+          ]
+        },
+        {
+          "id": "18-appeals",
+          "title": "18. Appeals",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Where an appeal right applies, customers may submit an appeal through our designated privacy contact channel."
+            }
+          ]
+        },
+        {
+          "id": "19-contact-information",
+          "title": "19. Contact Information",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Rootedrealm"
+            },
+            {
+              "type": "paragraph",
+              "text": "Legal Business Name: D & V Enterprises, Inc."
+            }
+          ]
+        },
+        {
+          "id": "3920-gunn-hwy",
+          "title": "3920 Gunn Hwy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tampa, FL 33618"
+            }
+          ]
+        },
+        {
+          "id": "united-states",
+          "title": "United States",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Phone: +1 (813) 963-6899"
+            }
+          ]
+        },
+        {
+          "id": "customer-service-hours-monday-friday-9-00-am-5-00-pm",
+          "title": "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+          "blocks": []
+        }
+      ],
+      "lines": [
+        "Last Updated: November 17, 2026",
+        "At Rootedrealm, we recognize the importance of giving customers clear information about their privacy choices.",
+        "This page explains rights and options that may be available under applicable privacy laws.",
+        "1. Understanding Your Privacy Rights",
+        "Depending on your location and applicable law, you may have rights to:",
+        "* Access personal information",
+        "* Correct inaccurate information",
+        "* Request deletion",
+        "* Obtain a copy of certain information",
+        "* Opt out of specified sales or sharing",
+        "* Opt out of targeted advertising",
+        "* Manage marketing preferences",
+        "* Withdraw consent where applicable",
+        "* Appeal certain privacy decisions",
+        "Not all rights apply to every person or business.",
+        "2. Access Your Information",
+        "Eligible customers may request access to certain personal information maintained by Rootedrealm.",
+        "This may include contact information, order records, and other eligible data.",
+        "3. Correct Your Information",
+        "If personal information is inaccurate, customers may request correction.",
+        "We may require reasonable verification.",
+        "4. Request Deletion",
+        "Eligible customers may request deletion of personal information.",
+        "Certain information may need to be retained for legally permitted purposes, including:",
+        "* Transaction records",
+        "* Accounting",
+        "* Tax obligations",
+        "* Security",
+        "* Fraud prevention",
+        "* Dispute resolution",
+        "* Legal compliance",
+        "5. Request a Copy of Your Data",
+        "Where applicable, customers may request a portable copy of certain information.",
+        "The available scope and format depend on legal requirements.",
+        "6. Opt Out of Sale or Sharing",
+        "Certain privacy laws provide eligible customers with rights to opt out of specified sales or sharing of personal information.",
+        "If Rootedrealm engages in covered activities, appropriate opt-out mechanisms must be provided where required.",
+        "7. Targeted Advertising",
+        "Where applicable, eligible customers may opt out of processing personal information for targeted advertising.",
+        "8. Cookie Preferences",
+        "Visitors may use available website preference controls or browser settings to manage optional tracking technologies.",
+        "9. Global Privacy Control",
+        "Global Privacy Control (GPC) is a browser-based privacy preference signal.",
+        "Where required by applicable law, qualifying signals must be honored through the website's actual privacy controls.",
+        "10. Marketing Preferences",
+        "If promotional emails are sent, recipients may unsubscribe using the mechanism provided.",
+        "Necessary transactional communications may continue.",
+        "11. US State Privacy Rights",
+        "Residents of certain US states may have additional privacy rights.",
+        "These rights vary according to jurisdiction and business applicability.",
+        "12. Non-Discrimination",
+        "Where prohibited by law, we will not unlawfully discriminate against customers for exercising applicable privacy rights.",
+        "13. Authorized Agents",
+        "Where permitted, authorized agents may submit certain requests on behalf of eligible consumers.",
+        "Appropriate verification or authorization may be required.",
+        "14. Identity Verification",
+        "We may verify a requester's identity before disclosing, correcting, or deleting personal information.",
+        "Please do not provide passwords or complete payment card details.",
+        "15. How to Submit a Request",
+        "Step 1: Contact Rootedrealm customer service using our website contact form or confirmed support email.",
+        "Step 2: Identify your request as a \"Privacy Rights Request.\"",
+        "Step 3: Describe the right you wish to exercise.",
+        "Step 4: Provide sufficient information to identify the relevant records.",
+        "Step 5: Complete any necessary verification.",
+        "16. Privacy Request Types",
+        "Customers may request:",
+        "* Access My Information",
+        "* Correct My Information",
+        "* Delete My Information",
+        "* Request a Copy of My Data",
+        "* Opt Out of Sale or Sharing",
+        "* Opt Out of Targeted Advertising",
+        "* Update Marketing Preferences",
+        "* Appeal a Privacy Decision",
+        "* Other Privacy Inquiry",
+        "17. Response Timeframes",
+        "We will review applicable privacy requests within the timeframes required by relevant law.",
+        "Permitted extensions and verification requirements may affect response timing.",
+        "18. Appeals",
+        "Where an appeal right applies, customers may submit an appeal through our designated privacy contact channel.",
+        "19. Contact Information",
+        "Rootedrealm",
+        "Legal Business Name: D & V Enterprises, Inc.",
+        "3920 Gunn Hwy",
+        "Tampa, FL 33618",
+        "United States",
+        "Phone: +1 (813) 963-6899",
+        "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+      ]
+    }
+  ]
+}

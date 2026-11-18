@@ -1,0 +1,442 @@
+{
+  "about": {
+    "eyebrow": "About Rootedrealm",
+    "title": "Welcome to Rootedrealm",
+    "intro": "At Rootedrealm, we believe shopping for your home, lifestyle, and everyday needs should be simple, convenient, and accessible.",
+    "body": "We bring together a diverse selection of products across electronics, gaming, computers, lawn and garden, outdoor living, home improvement, fireplaces, heating equipment, and wellness.",
+    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "values": [
+      {
+        "title": "A wide selection of products",
+        "text": "Rootedrealm brings together electronics, outdoor equipment, home improvement, and lifestyle products in one place."
+      },
+      {
+        "title": "Free shipping across the United States",
+        "text": "We offer free standard shipping on all orders throughout the USA, with no minimum order value."
+      },
+      {
+        "title": "Clear delivery estimates",
+        "text": "Order processing is 1-2 business days, transit is 3-7 business days, and total estimated delivery is 4-9 business days."
+      },
+      {
+        "title": "30-day returns",
+        "text": "Eligible defective and non-defective returns are accepted within 30 days, with free return shipping and no restocking fees."
+      },
+      {
+        "title": "Transparent shopping information",
+        "text": "Product prices, shipping, returns, refunds, and payment methods are published before you buy."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Who we are",
+        "paragraphs": [
+          "Rootedrealm is a US-based multi-category online retail store operated by D & V Enterprises, Inc., located in Tampa, Florida.",
+          "Business address: 3920 Gunn Hwy, Tampa, FL 33618, United States."
+        ]
+      },
+      {
+        "title": "What we offer",
+        "paragraphs": [
+          "We bring together a diverse selection of products across electronics, gaming, computers, lawn and garden, outdoor living, home improvement, fireplaces, heating equipment, and wellness."
+        ]
+      }
+    ],
+    "ctaTitle": "Explore more for your home, outdoors, and everyday life.",
+    "ctaBody": "Shop electronics, outdoor equipment, fireplaces, saunas, and home products at Rootedrealm."
+  },
+  "contact": {
+    "eyebrow": "Contact us",
+    "title": "Get in Touch with Rootedrealm",
+    "intro": "Our customer service team is available to assist with product inquiries, existing orders, shipping, returns, refunds, and general questions.",
+    "channels": [
+      {
+        "title": "Phone",
+        "detail": "+1 (813) 963-6899",
+        "text": "Call +1 (813) 963-6899 during published customer service hours."
+      },
+      {
+        "title": "Hours",
+        "detail": "Monday-Friday, 9:00 AM-5:00 PM",
+        "text": "Customer service is available Monday through Friday, 9:00 AM-5:00 PM."
+      },
+      {
+        "title": "Address",
+        "detail": "3920 Gunn Hwy, Tampa, FL 33618, United States",
+        "text": "Rootedrealm is operated by D & V Enterprises, Inc. at 3920 Gunn Hwy, Tampa, FL 33618, United States."
+      }
+    ],
+    "businessNote": "Business address: Rootedrealm, D & V Enterprises, Inc., 3920 Gunn Hwy, Tampa, FL 33618, United States. Do not send merchandise to this address without return instructions.",
+    "helpTopics": [
+      {
+        "title": "Product questions",
+        "text": "Contact us for information about product specifications, dimensions, compatibility, and availability."
+      },
+      {
+        "title": "Order assistance",
+        "text": "If you have already placed an order, please have your order number available when contacting us."
+      },
+      {
+        "title": "Shipping and delivery",
+        "text": "Standard shipping is free throughout the United States. Handling 1-2 business days. Transit 3-7 business days. Total estimated delivery 4-9 business days."
+      },
+      {
+        "title": "Returns and refunds",
+        "text": "Eligible defective and non-defective returns are accepted within 30 days, with free return shipping and no restocking fees. Direct exchanges are not available."
+      },
+      {
+        "title": "Damaged or incorrect products",
+        "text": "Contact customer service and provide your order number, a description of the problem, and photographs where available."
+      }
+    ],
+    "formNote": "Recommended contact form fields: Full Name, Email Address, Phone Number (Optional), Order Number (If Applicable), Inquiry Type, Message.",
+    "securityNote": "Please do not submit complete payment card numbers, security codes, or passwords.",
+    "hours": [
+      {
+        "channel": "Phone",
+        "availability": "+1 (813) 963-6899"
+      },
+      {
+        "channel": "Customer service hours",
+        "availability": "Monday-Friday, 9:00 AM-5:00 PM"
+      },
+      {
+        "channel": "Standard shipping",
+        "availability": "Free throughout the USA"
+      },
+      {
+        "channel": "Estimated delivery",
+        "availability": "4-9 business days"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is Rootedrealm?",
+        "answer": "Rootedrealm is a US-based multi-category online retailer operated by D & V Enterprises, Inc."
+      },
+      {
+        "question": "Where is Rootedrealm located?",
+        "answer": "Our published business address is 3920 Gunn Hwy, Tampa, FL 33618, United States."
+      },
+      {
+        "question": "How can I contact customer support?",
+        "answer": "Call +1 (813) 963-6899 during our published customer service hours."
+      },
+      {
+        "question": "Do you offer free shipping?",
+        "answer": "Yes. Standard shipping is free throughout the United States."
+      },
+      {
+        "question": "What is your return window?",
+        "answer": "30 days."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "The payment methods currently supported are displayed at checkout."
+      }
+    ]
+  },
+  "commitment": {
+    "eyebrow": "Our commitment",
+    "title": "Shopping with Clarity and Confidence",
+    "intro": "At Rootedrealm, operated by D & V Enterprises, Inc., our goal is to make online shopping convenient, informative, and transparent.",
+    "body": "We offer products across electronics, computers, gaming, lawn and garden, outdoor power equipment, fireplaces, wood stoves, saunas, and home improvement.",
+    "sections": [
+      {
+        "title": "Shopping with Clarity and Confidence",
+        "paragraphs": [
+          "At Rootedrealm, operated by D & V Enterprises, Inc., our goal is to make online shopping convenient, informative, and transparent.",
+          "We offer products across electronics, computers, gaming, lawn and garden, outdoor power equipment, fireplaces, wood stoves, saunas, and home improvement.",
+          "We recognize that customers need accurate product information and understandable purchasing policies, especially when shopping for technical equipment and higher-value products."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "1. Clear Product Information",
+        "paragraphs": [
+          "We aim to provide accurate product titles, descriptions, images, specifications, and available product details.",
+          "Customers should review product dimensions, compatibility, installation requirements, and manufacturer instructions before placing an order."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "2. Transparent Pricing",
+        "paragraphs": [
+          "Product prices are displayed during shopping and checkout.",
+          "We offer free standard shipping throughout the United States, with no minimum order requirement.",
+          "Applicable taxes and the final payable total are displayed during checkout."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "3. Reliable Order Processing",
+        "paragraphs": [
+          "Our standard order handling period is 1\u20132 business days, Monday through Friday.",
+          "Orders are reviewed, prepared, and packaged before being handed to the shipping carrier.",
+          "During high-volume periods, processing may occasionally take longer. We aim to communicate meaningful delays."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "4. Clear Delivery Estimates",
+        "paragraphs": [
+          "Our standard delivery estimates are:",
+          "Delivery estimates may vary due to carrier operations, weather, or other circumstances."
+        ],
+        "bullets": [
+          "Handling: 1\u20132 business days",
+          "Transit: 3\u20137 business days",
+          "Total estimated delivery: 4\u20139 business days",
+          "Standard shipping cost: $0.00"
+        ]
+      },
+      {
+        "title": "5. Customer-Friendly Returns",
+        "paragraphs": [
+          "We accept eligible defective and non-defective returns within 30 days.",
+          "Standard non-defective returns must meet the applicable new-condition requirements.",
+          "Our policy includes free return shipping and no restocking fees.",
+          "Direct exchanges are not accepted. Customers seeking a different item may return an eligible purchase and place a new order."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "6. Customer Support",
+        "paragraphs": [
+          "Our customer service team can assist with:"
+        ],
+        "bullets": [
+          "Product questions",
+          "Order information",
+          "Shipping inquiries",
+          "Order cancellations",
+          "Returns and refunds",
+          "Damaged or incorrect deliveries",
+          "Warranty information, where applicable"
+        ]
+      },
+      {
+        "title": "Phone: +1 (813) 963-6899",
+        "paragraphs": [
+          "Customer Service Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM"
+        ],
+        "bullets": []
+      },
+      {
+        "title": "7. Responsible Product Information",
+        "paragraphs": [
+          "For products such as chainsaws, power equipment, fireplaces, wood stoves, and electronic devices, we encourage customers to follow manufacturer safety instructions and applicable installation requirements."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "8. Privacy and Security",
+        "paragraphs": [
+          "We recognize the importance of protecting customer information.",
+          "We aim to use appropriate safeguards and disclose relevant information-handling practices through our Privacy Policy."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "9. Continuous Improvement",
+        "paragraphs": [
+          "We value customer feedback and aim to improve product information, order communication, and customer assistance."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Contact Rootedrealm",
+        "paragraphs": [
+          "Rootedrealm",
+          "Operated by D & V Enterprises, Inc."
+        ],
+        "bullets": []
+      },
+      {
+        "title": "3920 Gunn Hwy",
+        "paragraphs": [
+          "Tampa, FL 33618"
+        ],
+        "bullets": []
+      },
+      {
+        "title": "United States",
+        "paragraphs": [
+          "Phone: +1 (813) 963-6899"
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Hours: Monday\u2013Friday, 9:00 AM\u20135:00 PM",
+        "paragraphs": [],
+        "bullets": []
+      }
+    ],
+    "ctaTitle": "Contact Rootedrealm",
+    "ctaBody": "Rootedrealm, operated by D & V Enterprises, Inc., 3920 Gunn Hwy, Tampa, FL 33618, United States. Phone: +1 (813) 963-6899. Hours: Monday-Friday, 9:00 AM-5:00 PM."
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "title": "Frequently asked questions",
+    "intro": "Welcome to the Rootedrealm FAQ Center. Find answers to common questions about our products, orders, shipping, returns, refunds, and customer support.",
+    "groups": [
+      {
+        "title": "General Information",
+        "items": [
+          {
+            "question": "What is Rootedrealm?",
+            "answer": "Rootedrealm is a US-based multi-category online retailer operated by D & V Enterprises, Inc."
+          },
+          {
+            "question": "Where is Rootedrealm located?",
+            "answer": "Our published business address is 3920 Gunn Hwy, Tampa, FL 33618, United States."
+          },
+          {
+            "question": "What products do you sell?",
+            "answer": "Our categories include electronics, gaming consoles, computer monitors, 3D printers, computer components, lawn and garden products, outdoor power equipment, fireplaces, wood stoves, saunas, and home improvement products."
+          },
+          {
+            "question": "How can I contact customer support?",
+            "answer": "Call +1 (813) 963-6899 during our published customer service hours."
+          },
+          {
+            "question": "What are your business hours?",
+            "answer": "Monday\u2013Friday, 9:00 AM\u20135:00 PM."
+          }
+        ]
+      },
+      {
+        "title": "Orders and Payments",
+        "items": [
+          {
+            "question": "How do I place an order?",
+            "answer": "Browse our online store, select your products, add them to your cart, and complete checkout."
+          },
+          {
+            "question": "What payment methods do you accept?",
+            "answer": "The payment methods currently supported are displayed at checkout."
+          },
+          {
+            "question": "Can I cancel an order?",
+            "answer": "You may request cancellation before the order is dispatched. Contact customer support as soon as possible."
+          },
+          {
+            "question": "Can I change my shipping address?",
+            "answer": "Contact us promptly. Changes may not be possible once the order has shipped."
+          },
+          {
+            "question": "Will I receive an order confirmation?",
+            "answer": "After a successful purchase, order confirmation information should be sent to the email address provided at checkout."
+          }
+        ]
+      },
+      {
+        "title": "Shipping and Delivery",
+        "items": [
+          {
+            "question": "Do you offer free shipping?",
+            "answer": "Yes. Standard shipping is free throughout the United States."
+          },
+          {
+            "question": "Is there a minimum purchase requirement?",
+            "answer": "No. Free standard shipping applies to all orders."
+          },
+          {
+            "question": "How long does processing take?",
+            "answer": "Orders are typically processed within 1\u20132 business days."
+          },
+          {
+            "question": "How long does shipping take?",
+            "answer": "Transit generally takes 3\u20137 business days."
+          },
+          {
+            "question": "What is the total estimated delivery time?",
+            "answer": "Most orders are estimated to arrive within 4\u20139 business days."
+          },
+          {
+            "question": "What counts as a business day?",
+            "answer": "Monday through Friday, excluding applicable public holidays."
+          },
+          {
+            "question": "Do you ship internationally?",
+            "answer": "Our published free shipping policy covers the United States. International shipping is not offered under this policy."
+          },
+          {
+            "question": "Can I track my order?",
+            "answer": "Shipment tracking information will be provided when available after dispatch."
+          },
+          {
+            "question": "What if my order is delayed?",
+            "answer": "Contact customer support with your order number so we can review the available shipping information."
+          }
+        ]
+      },
+      {
+        "title": "Returns and Refunds",
+        "items": [
+          {
+            "question": "What is your return window?",
+            "answer": "30 days."
+          },
+          {
+            "question": "Do you accept returns for defective products?",
+            "answer": "Yes."
+          },
+          {
+            "question": "Do you accept returns for non-defective products?",
+            "answer": "Yes, provided they meet the applicable eligibility requirements."
+          },
+          {
+            "question": "What condition must a standard return be in?",
+            "answer": "Non-defective products must be in new condition."
+          },
+          {
+            "question": "Are exchanges accepted?",
+            "answer": "No. We do not offer direct exchanges."
+          },
+          {
+            "question": "Is return shipping free?",
+            "answer": "Yes. Our policy provides a free return label included in the package."
+          },
+          {
+            "question": "Do you charge restocking fees?",
+            "answer": "No. Our restocking fee is $0.00."
+          },
+          {
+            "question": "How long does refund processing take?",
+            "answer": "Our published refund processing period is 10 days."
+          },
+          {
+            "question": "How are refunds issued?",
+            "answer": "Approved refunds are generally returned to the original payment method."
+          },
+          {
+            "question": "What if my return label is missing?",
+            "answer": "Contact customer service for assistance before shipping the product."
+          }
+        ]
+      },
+      {
+        "title": "Product Information",
+        "items": [
+          {
+            "question": "Do your products include warranties?",
+            "answer": "Warranty coverage depends on the product and applicable manufacturer terms."
+          },
+          {
+            "question": "Do you provide installation services?",
+            "answer": "Installation is not included unless explicitly stated in the product listing or purchase agreement."
+          },
+          {
+            "question": "Can I ask about product compatibility?",
+            "answer": "Yes. Contact customer service with the product model and your requirements."
+          },
+          {
+            "question": "What if a product arrives damaged?",
+            "answer": "Contact us promptly with your order number and supporting photographs, where available."
+          }
+        ]
+      }
+    ]
+  }
+}
