@@ -21,10 +21,10 @@ export function NewsletterSection({ settings }: { settings: StoreSettings }) {
           <div className="relative min-h-56 sm:min-h-72">
             <Image
               src="/brand/footer-image.jpg"
-              alt=""
+              alt="A living room with plants and everyday home products"
               fill
               sizes="(min-width: 1024px) 36vw, 100vw"
-              className="object-cover"
+              className="object-cover object-[center_40%]"
             />
           </div>
           <div className="flex flex-col justify-center px-6 py-10 sm:px-10 lg:py-14">
